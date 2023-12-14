@@ -12,10 +12,90 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "YW.CREDENTIAL_MANAGER.CredentialManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "YW.CREDENTIAL_MANAGER.CredentialManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "YW.CREDENTIAL_MANAGER.FACT.CredentialManagerFact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "YW.CREDENTIAL_MANAGER.FACT.CredentialManagerFact.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "YW.CREDENTIAL_MANAGER.FACT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "YW.CREDENTIAL_MANAGER.FACT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "YW.CREDENTIAL_MANAGER.MacOS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "YW.CREDENTIAL_MANAGER.MacOS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "YW.CREDENTIAL_MANAGER.yml",
+      "output": {
+        ".html": {
+          "relative_path": "YW.CREDENTIAL_MANAGER.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/YW.CREDENTIAL_MANAGER.CredentialManager.yml",
       "output": {
         ".html": {
           "relative_path": "api/YW.CREDENTIAL_MANAGER.CredentialManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.CREDENTIAL_MANAGER.FACT.CredentialManagerFact.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.CREDENTIAL_MANAGER.FACT.CredentialManagerFact.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.CREDENTIAL_MANAGER.FACT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.CREDENTIAL_MANAGER.FACT.html"
         }
       },
       "version": ""
@@ -65,10 +145,23 @@
     },
     {
       "type": "Conceptual",
-      "source_relative_path": "index.md",
+      "source_relative_path": "template/index.md",
       "output": {
         ".html": {
-          "relative_path": "index.html"
+          "relative_path": "template/index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "template/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "template/toc.html"
+        },
+        ".json": {
+          "relative_path": "template/toc.json"
         }
       },
       "version": ""
