@@ -1,0 +1,82 @@
+{
+  "source_base_path": "C:/Users/yunwoo/RiderProjects/credential-manager",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.CREDENTIAL_MANAGER.CredentialManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.CREDENTIAL_MANAGER.CredentialManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.CREDENTIAL_MANAGER.MacOS.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.CREDENTIAL_MANAGER.MacOS.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.CREDENTIAL_MANAGER.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.CREDENTIAL_MANAGER.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

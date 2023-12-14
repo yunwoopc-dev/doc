@@ -1,0 +1,27 @@
+{
+  "api/YW.CREDENTIAL_MANAGER.CredentialManager.html": {
+    "href": "api/YW.CREDENTIAL_MANAGER.CredentialManager.html",
+    "title": "Class CredentialManager | 연우피씨엔지니어링",
+    "keywords": "Class CredentialManager Namespace YW.CREDENTIAL_MANAGER Assembly CredentialManager.dll 무슨무슨 클래스 입니다. public class CredentialManager Inheritance object CredentialManager Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add_credential(string, string, string) public static bool Add_credential(string app_name, string account_name, string password) Parameters app_name string account_name string password string Returns bool Delete_credential(string, string) public static bool Delete_credential(string app_name, string account_name) Parameters app_name string account_name string Returns bool Get_password(string, string) 비밀번호를 가져오는 메서드입니다. public static string? Get_password(string app_name, string account_name) Parameters app_name string 가져올 패스워드의 이름입니다. account_name string 패스워드를 가져올 계정의 이름입니다. Returns string 비밀번호 또는 null이 반환됩니다. Update_credential(string, string, string) public static bool Update_credential(string app_name, string account_name, string password) Parameters app_name string account_name string password string Returns bool"
+  },
+  "api/YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.html": {
+    "href": "api/YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.html",
+    "title": "Class KeyChainManager | 연우피씨엔지니어링",
+    "keywords": "Class KeyChainManager Namespace YW.CREDENTIAL_MANAGER.MacOS Assembly CredentialManager.dll public class KeyChainManager Inheritance object KeyChainManager Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Delete_credential(string, string) public static bool Delete_credential(string app_name, string account_name) Parameters app_name string account_name string Returns bool"
+  },
+  "api/YW.CREDENTIAL_MANAGER.MacOS.html": {
+    "href": "api/YW.CREDENTIAL_MANAGER.MacOS.html",
+    "title": "Namespace YW.CREDENTIAL_MANAGER.MacOS | 연우피씨엔지니어링",
+    "keywords": "Namespace YW.CREDENTIAL_MANAGER.MacOS Classes KeyChainManager"
+  },
+  "api/YW.CREDENTIAL_MANAGER.html": {
+    "href": "api/YW.CREDENTIAL_MANAGER.html",
+    "title": "Namespace YW.CREDENTIAL_MANAGER | 연우피씨엔지니어링",
+    "keywords": "Namespace YW.CREDENTIAL_MANAGER Classes CredentialManager 무슨무슨 클래스 입니다."
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "| 연우피씨엔지니어링",
+    "keywords": "Library Tool YW.CredentialManager : 배포 자동화 프로그램입니다."
+  }
+}
