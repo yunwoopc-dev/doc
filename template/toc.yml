@@ -1,2 +1,5 @@
+- name: Home
+  href: /doc/
+
 - name: API
-  href: {문서 이름을 입력하세요}/api/
+  href: api/
