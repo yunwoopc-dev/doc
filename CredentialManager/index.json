@@ -1,34 +1,4 @@
 {
-  "YW.CREDENTIAL_MANAGER.CredentialManager.html": {
-    "href": "YW.CREDENTIAL_MANAGER.CredentialManager.html",
-    "title": "Class CredentialManager | CredentialManager",
-    "keywords": "Class CredentialManager Namespace YW.CREDENTIAL_MANAGER Assembly CredentialManager.dll 무슨무슨 클래스 입니다. public class CredentialManager Inheritance object CredentialManager Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Add_credential(string, string, string) public static bool Add_credential(string app_name, string account_name, string password) Parameters app_name string account_name string password string Returns bool Delete_credential(string, string) public static bool Delete_credential(string app_name, string account_name) Parameters app_name string account_name string Returns bool Get_password(string, string) 비밀번호를 가져오는 메서드입니다. public static string? Get_password(string app_name, string account_name) Parameters app_name string 가져올 패스워드의 이름입니다. account_name string 패스워드를 가져올 계정의 이름입니다. Returns string 비밀번호 또는 null이 반환됩니다. Update_credential(string, string, string) public static bool Update_credential(string app_name, string account_name, string password) Parameters app_name string account_name string password string Returns bool"
-  },
-  "YW.CREDENTIAL_MANAGER.FACT.CredentialManagerFact.html": {
-    "href": "YW.CREDENTIAL_MANAGER.FACT.CredentialManagerFact.html",
-    "title": "Class CredentialManagerFact | CredentialManager",
-    "keywords": "Class CredentialManagerFact Namespace YW.CREDENTIAL_MANAGER.FACT Assembly CredentialManagerFact.dll public class CredentialManagerFact : IDisposable Inheritance object CredentialManagerFact Implements IDisposable Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors CredentialManagerFact(ITestOutputHelper) public CredentialManagerFact(ITestOutputHelper testOutputHelper) Parameters testOutputHelper ITestOutputHelper Methods Dispose() Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources. public void Dispose() 계정_정보를_업데이트_할_수_있다() [Fact] public void 계정_정보를_업데이트_할_수_있다() 계정_정보를_저장할_수_있다() [Fact] public void 계정_정보를_저장할_수_있다()"
-  },
-  "YW.CREDENTIAL_MANAGER.FACT.html": {
-    "href": "YW.CREDENTIAL_MANAGER.FACT.html",
-    "title": "Namespace YW.CREDENTIAL_MANAGER.FACT | CredentialManager",
-    "keywords": "Namespace YW.CREDENTIAL_MANAGER.FACT Classes CredentialManagerFact"
-  },
-  "YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.html": {
-    "href": "YW.CREDENTIAL_MANAGER.MacOS.KeyChainManager.html",
-    "title": "Class KeyChainManager | CredentialManager",
-    "keywords": "Class KeyChainManager Namespace YW.CREDENTIAL_MANAGER.MacOS Assembly CredentialManager.dll public class KeyChainManager Inheritance object KeyChainManager Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Methods Delete_credential(string, string) public static bool Delete_credential(string app_name, string account_name) Parameters app_name string account_name string Returns bool"
-  },
-  "YW.CREDENTIAL_MANAGER.MacOS.html": {
-    "href": "YW.CREDENTIAL_MANAGER.MacOS.html",
-    "title": "Namespace YW.CREDENTIAL_MANAGER.MacOS | CredentialManager",
-    "keywords": "Namespace YW.CREDENTIAL_MANAGER.MacOS Classes KeyChainManager"
-  },
-  "YW.CREDENTIAL_MANAGER.html": {
-    "href": "YW.CREDENTIAL_MANAGER.html",
-    "title": "Namespace YW.CREDENTIAL_MANAGER | CredentialManager",
-    "keywords": "Namespace YW.CREDENTIAL_MANAGER Classes CredentialManager 무슨무슨 클래스 입니다."
-  },
   "api/YW.CREDENTIAL_MANAGER.CredentialManager.html": {
     "href": "api/YW.CREDENTIAL_MANAGER.CredentialManager.html",
     "title": "Class CredentialManager | CredentialManager",
@@ -59,9 +29,9 @@
     "title": "Namespace YW.CREDENTIAL_MANAGER | CredentialManager",
     "keywords": "Namespace YW.CREDENTIAL_MANAGER Classes CredentialManager 무슨무슨 클래스 입니다."
   },
-  "template/index.html": {
-    "href": "template/index.html",
-    "title": "This is the HOMEPAGE. | CredentialManager",
-    "keywords": "This is the HOMEPAGE. Refer to Markdown for how to write markdown files. Quick Start Notes: Add images to the images folder if the file is referencing an image."
+  "index.html": {
+    "href": "index.html",
+    "title": "이것은 템플릿 홈페이지 입니다. | CredentialManager",
+    "keywords": "이것은 템플릿 홈페이지 입니다. 마크다운 형식으로 게시물을 작성할 수 있습니다. 빠른 시작 노트: index.md 파일을 찾아 수정해주세요."
   }
 }
