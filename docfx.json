@@ -3,10 +3,11 @@
     "content": [
       {
         "files": [
-          "./*.{md,yml}"
+          "**/*.{md}"
         ],
         "exclude": [
-          "./**"
+          "./**",
+		  "template"
         ]
       }
     ],
