@@ -1,0 +1,120 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: YW.NOTIFICATION_MANAGER
+  name: YW.NOTIFICATION_MANAGER
+  href: api/YW.NOTIFICATION_MANAGER.html
+  commentId: N:YW.NOTIFICATION_MANAGER
+  fullName: YW.NOTIFICATION_MANAGER
+  nameWithType: YW.NOTIFICATION_MANAGER
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification
+  name: SlackBlockNotification
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html
+  commentId: T:YW.NOTIFICATION_MANAGER.SlackBlockNotification
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification
+  nameWithType: SlackBlockNotification
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.#ctor(System.String)
+  name: SlackBlockNotification(string)
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification__ctor_System_String_
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.#ctor(System.String)
+  name.vb: New(String)
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.SlackBlockNotification(string)
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.New(String)
+  nameWithType: SlackBlockNotification.SlackBlockNotification(string)
+  nameWithType.vb: SlackBlockNotification.New(String)
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.#ctor*
+  name: SlackBlockNotification
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification__ctor_
+  commentId: Overload:YW.NOTIFICATION_MANAGER.SlackBlockNotification.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.SlackBlockNotification
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.New
+  nameWithType: SlackBlockNotification.SlackBlockNotification
+  nameWithType.vb: SlackBlockNotification.New
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context(System.Collections.Generic.IEnumerable{System.String})
+  name: Add_context(IEnumerable<string>)
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_context_System_Collections_Generic_IEnumerable_System_String__
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context(System.Collections.Generic.IEnumerable{System.String})
+  name.vb: Add_context(IEnumerable(Of String))
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context(System.Collections.Generic.IEnumerable<string>)
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context(System.Collections.Generic.IEnumerable(Of String))
+  nameWithType: SlackBlockNotification.Add_context(IEnumerable<string>)
+  nameWithType.vb: SlackBlockNotification.Add_context(IEnumerable(Of String))
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context*
+  name: Add_context
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_context_
+  commentId: Overload:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context
+  isSpec: "True"
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_context
+  nameWithType: SlackBlockNotification.Add_context
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_divider
+  name: Add_divider()
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_divider
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_divider
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_divider()
+  nameWithType: SlackBlockNotification.Add_divider()
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_divider*
+  name: Add_divider
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_divider_
+  commentId: Overload:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_divider
+  isSpec: "True"
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_divider
+  nameWithType: SlackBlockNotification.Add_divider
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header(System.String)
+  name: Add_header(string)
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_header_System_String_
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header(System.String)
+  name.vb: Add_header(String)
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header(string)
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header(String)
+  nameWithType: SlackBlockNotification.Add_header(string)
+  nameWithType.vb: SlackBlockNotification.Add_header(String)
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header*
+  name: Add_header
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_header_
+  commentId: Overload:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header
+  isSpec: "True"
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_header
+  nameWithType: SlackBlockNotification.Add_header
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(System.Collections.Generic.IEnumerable{System.String})
+  name: Add_section(IEnumerable<string>)
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_section_System_Collections_Generic_IEnumerable_System_String__
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(System.Collections.Generic.IEnumerable{System.String})
+  name.vb: Add_section(IEnumerable(Of String))
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(System.Collections.Generic.IEnumerable<string>)
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(System.Collections.Generic.IEnumerable(Of String))
+  nameWithType: SlackBlockNotification.Add_section(IEnumerable<string>)
+  nameWithType.vb: SlackBlockNotification.Add_section(IEnumerable(Of String))
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(System.String)
+  name: Add_section(string)
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_section_System_String_
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(System.String)
+  name.vb: Add_section(String)
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(string)
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section(String)
+  nameWithType: SlackBlockNotification.Add_section(string)
+  nameWithType.vb: SlackBlockNotification.Add_section(String)
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section*
+  name: Add_section
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Add_section_
+  commentId: Overload:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section
+  isSpec: "True"
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Add_section
+  nameWithType: SlackBlockNotification.Add_section
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send(System.String[])
+  name: Send(params string[])
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Send_System_String___
+  commentId: M:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send(System.String[])
+  name.vb: Send(ParamArray String())
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send(params string[])
+  fullName.vb: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send(ParamArray String())
+  nameWithType: SlackBlockNotification.Send(params string[])
+  nameWithType.vb: SlackBlockNotification.Send(ParamArray String())
+- uid: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send*
+  name: Send
+  href: api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html#YW_NOTIFICATION_MANAGER_SlackBlockNotification_Send_
+  commentId: Overload:YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send
+  isSpec: "True"
+  fullName: YW.NOTIFICATION_MANAGER.SlackBlockNotification.Send
+  nameWithType: SlackBlockNotification.Send

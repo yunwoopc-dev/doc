@@ -1,0 +1,27 @@
+{
+  "Notification-Manager.Fact/README.html": {
+    "href": "Notification-Manager.Fact/README.html",
+    "title": "Notification Manager | Notification-Manager",
+    "keywords": "Notification Manager"
+  },
+  "README.html": {
+    "href": "README.html",
+    "title": "Notification Manager | Notification-Manager",
+    "keywords": "Notification Manager"
+  },
+  "api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html": {
+    "href": "api/YW.NOTIFICATION_MANAGER.SlackBlockNotification.html",
+    "title": "Class SlackBlockNotification | Notification-Manager",
+    "keywords": "Class SlackBlockNotification Namespace YW.NOTIFICATION_MANAGER Assembly Notification-Manager.dll public class SlackBlockNotification Inheritance object SlackBlockNotification Inherited Members object.Equals(object) object.Equals(object, object) object.GetHashCode() object.GetType() object.MemberwiseClone() object.ReferenceEquals(object, object) object.ToString() Constructors SlackBlockNotification(string) public SlackBlockNotification(string bot_token) Parameters bot_token string Methods Add_context(IEnumerable<string>) Plaintext 형식으로 작성되어 강조되는 부가 설명 등에 사용되는 메시지입니다. public SlackBlockNotification Add_context(IEnumerable<string> messages) Parameters messages IEnumerable<string> Header 메시지입니다. Returns SlackBlockNotification Add_divider() public SlackBlockNotification Add_divider() Returns SlackBlockNotification Add_header(string) Plaintext 형식으로 작성되어 강조되는 제목 등에 사용되는 메시지입니다. public SlackBlockNotification Add_header(string message) Parameters message string Header 메시지입니다. Returns SlackBlockNotification Add_section(IEnumerable<string>) public SlackBlockNotification Add_section(IEnumerable<string> fields) Parameters fields IEnumerable<string> Returns SlackBlockNotification Add_section(string) Markdown 형식으로 작성되는 메시지입니다. public SlackBlockNotification Add_section(string message) Parameters message string Section 메시지입니다. Returns SlackBlockNotification Send(params string[]) public void Send(params string[] channel) Parameters channel string[]"
+  },
+  "api/YW.NOTIFICATION_MANAGER.html": {
+    "href": "api/YW.NOTIFICATION_MANAGER.html",
+    "title": "Namespace YW.NOTIFICATION_MANAGER | Notification-Manager",
+    "keywords": "Namespace YW.NOTIFICATION_MANAGER Classes SlackBlockNotification"
+  },
+  "index.html": {
+    "href": "index.html",
+    "title": "_layout: landing | Notification-Manager",
+    "keywords": "_layout: landing 이것은 템플릿 홈페이지 입니다. 마크다운 형식으로 게시물을 작성할 수 있습니다. 빠른 시작 노트: index.md 파일을 찾아 수정해주세요."
+  }
+}
