@@ -1,0 +1,155 @@
+{
+  "source_base_path": "D:/CSProject/GitLab/Service-PC-Component",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.IColumnChanger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.IColumnGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.IComponentGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.IComponentSetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.IComponentSetter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.IGirderChanger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.IGirderGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.ISlabChanger.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.ISlabGetter.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.Topic.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.Topic.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.SERVICE.PC_COMPONENT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.SERVICE.PC_COMPONENT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

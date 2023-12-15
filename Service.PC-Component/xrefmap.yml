@@ -1,0 +1,1650 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: YW.SERVICE.PC_COMPONENT
+  name: YW.SERVICE.PC_COMPONENT
+  href: api/YW.SERVICE.PC_COMPONENT.html
+  commentId: N:YW.SERVICE.PC_COMPONENT
+  fullName: YW.SERVICE.PC_COMPONENT
+  nameWithType: YW.SERVICE.PC_COMPONENT
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger
+  name: IColumnChanger
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.IColumnChanger
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger
+  nameWithType: IColumnChanger
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_anchor(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  name: Add_anchor(CuboidDirection, Vector2)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_anchor_YW_GEO_CuboidDirection_System_DoubleNumerics_Vector2_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_anchor(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_anchor(YW.GEO.CuboidDirection, System.DoubleNumerics.Vector2)
+  nameWithType: IColumnChanger.Add_anchor(CuboidDirection, Vector2)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_anchor*
+  name: Add_anchor
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_anchor_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_anchor
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_anchor
+  nameWithType: IColumnChanger.Add_anchor
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_bracket_chin(System.Guid,YW.PC.FACTOR.PositionOnRect,YW.PC.FACTOR.PositionOnRect)
+  name: Add_bracket_chin(Guid, PositionOnRect, PositionOnRect)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_bracket_chin_System_Guid_YW_PC_FACTOR_PositionOnRect_YW_PC_FACTOR_PositionOnRect_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_bracket_chin(System.Guid,YW.PC.FACTOR.PositionOnRect,YW.PC.FACTOR.PositionOnRect)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_bracket_chin(System.Guid, YW.PC.FACTOR.PositionOnRect, YW.PC.FACTOR.PositionOnRect)
+  nameWithType: IColumnChanger.Add_bracket_chin(Guid, PositionOnRect, PositionOnRect)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_bracket_chin*
+  name: Add_bracket_chin
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_bracket_chin_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_bracket_chin
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_bracket_chin
+  nameWithType: IColumnChanger.Add_bracket_chin
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_connection_rebar(YW.PC.FACTOR.PositionOnRect)
+  name: Add_connection_rebar(PositionOnRect)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_connection_rebar_YW_PC_FACTOR_PositionOnRect_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_connection_rebar(YW.PC.FACTOR.PositionOnRect)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_connection_rebar(YW.PC.FACTOR.PositionOnRect)
+  nameWithType: IColumnChanger.Add_connection_rebar(PositionOnRect)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_connection_rebar*
+  name: Add_connection_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_connection_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_connection_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_connection_rebar
+  nameWithType: IColumnChanger.Add_connection_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_cross_tie(System.DoubleNumerics.Vector2,System.DoubleNumerics.Vector2)
+  name: Add_cross_tie(Vector2, Vector2)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_cross_tie_System_DoubleNumerics_Vector2_System_DoubleNumerics_Vector2_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_cross_tie(System.DoubleNumerics.Vector2,System.DoubleNumerics.Vector2)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_cross_tie(System.DoubleNumerics.Vector2, System.DoubleNumerics.Vector2)
+  nameWithType: IColumnChanger.Add_cross_tie(Vector2, Vector2)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_cross_tie*
+  name: Add_cross_tie
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_cross_tie_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_cross_tie
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_cross_tie
+  nameWithType: IColumnChanger.Add_cross_tie
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_insert(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  name: Add_insert(CuboidDirection, Vector2)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_insert_YW_GEO_CuboidDirection_System_DoubleNumerics_Vector2_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_insert(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_insert(YW.GEO.CuboidDirection, System.DoubleNumerics.Vector2)
+  nameWithType: IColumnChanger.Add_insert(CuboidDirection, Vector2)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_insert*
+  name: Add_insert
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_insert_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_insert
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_insert
+  nameWithType: IColumnChanger.Add_insert
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_main_rebar(YW.PC.FACTOR.PositionOnRect)
+  name: Add_main_rebar(PositionOnRect)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_main_rebar_YW_PC_FACTOR_PositionOnRect_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_main_rebar(YW.PC.FACTOR.PositionOnRect)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_main_rebar(YW.PC.FACTOR.PositionOnRect)
+  nameWithType: IColumnChanger.Add_main_rebar(PositionOnRect)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_main_rebar*
+  name: Add_main_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Add_main_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_main_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Add_main_rebar
+  nameWithType: IColumnChanger.Add_main_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket(System.Guid,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double})
+  name: Change_bracket(Guid, RectangularDirection?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_System_Guid_System_Nullable_YW_GEO_RectangularDirection__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket(System.Guid,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double})
+  name.vb: Change_bracket(Guid, RectangularDirection?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket(System.Guid, YW.GEO.RectangularDirection?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket(System.Guid, YW.GEO.RectangularDirection?, Double?)
+  nameWithType: IColumnChanger.Change_bracket(Guid, RectangularDirection?, double?)
+  nameWithType.vb: IColumnChanger.Change_bracket(Guid, RectangularDirection?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket*
+  name: Change_bracket
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket
+  nameWithType: IColumnChanger.Change_bracket
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin(System.Guid,YW.PC.FACTOR.PositionOnRect,YW.PC.FACTOR.PositionOnRect)
+  name: Change_bracket_chin(Guid, PositionOnRect?, PositionOnRect?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_System_Guid_YW_PC_FACTOR_PositionOnRect_YW_PC_FACTOR_PositionOnRect_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin(System.Guid,YW.PC.FACTOR.PositionOnRect,YW.PC.FACTOR.PositionOnRect)
+  name.vb: Change_bracket_chin(Guid, PositionOnRect, PositionOnRect)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin(System.Guid, YW.PC.FACTOR.PositionOnRect?, YW.PC.FACTOR.PositionOnRect?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin(System.Guid, YW.PC.FACTOR.PositionOnRect, YW.PC.FACTOR.PositionOnRect)
+  nameWithType: IColumnChanger.Change_bracket_chin(Guid, PositionOnRect?, PositionOnRect?)
+  nameWithType.vb: IColumnChanger.Change_bracket_chin(Guid, PositionOnRect, PositionOnRect)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin*
+  name: Change_bracket_chin
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin
+  nameWithType: IColumnChanger.Change_bracket_chin
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_bracket_chin_body_mass(Guid, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_body_mass_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_bracket_chin_body_mass(Guid, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass(System.Guid, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass(System.Guid, Double?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_bracket_chin_body_mass(Guid, double?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_bracket_chin_body_mass(Guid, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass*
+  name: Change_bracket_chin_body_mass
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_body_mass_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_body_mass
+  nameWithType: IColumnChanger.Change_bracket_chin_body_mass
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar(System.Guid,System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name: Change_bracket_chin_rebar(Guid, double?, Rebar?, Rebar?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_rebar_System_Guid_System_Nullable_System_Double__YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar(System.Guid,System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name.vb: Change_bracket_chin_rebar(Guid, Double?, Rebar, Rebar)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar(System.Guid, double?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar(System.Guid, Double?, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar)
+  nameWithType: IColumnChanger.Change_bracket_chin_rebar(Guid, double?, Rebar?, Rebar?)
+  nameWithType.vb: IColumnChanger.Change_bracket_chin_rebar(Guid, Double?, Rebar, Rebar)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar*
+  name: Change_bracket_chin_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_rebar
+  nameWithType: IColumnChanger.Change_bracket_chin_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area(System.Guid,System.Guid,System.Collections.Generic.IEnumerable{System.Double})
+  name: Change_bracket_chin_stirrup_area(Guid, Guid, IEnumerable<double>?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_stirrup_area_System_Guid_System_Guid_System_Collections_Generic_IEnumerable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area(System.Guid,System.Guid,System.Collections.Generic.IEnumerable{System.Double})
+  name.vb: Change_bracket_chin_stirrup_area(Guid, Guid, IEnumerable(Of Double))
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area(System.Guid, System.Guid, System.Collections.Generic.IEnumerable<double>?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area(System.Guid, System.Guid, System.Collections.Generic.IEnumerable(Of Double))
+  nameWithType: IColumnChanger.Change_bracket_chin_stirrup_area(Guid, Guid, IEnumerable<double>?)
+  nameWithType.vb: IColumnChanger.Change_bracket_chin_stirrup_area(Guid, Guid, IEnumerable(Of Double))
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area*
+  name: Change_bracket_chin_stirrup_area
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_stirrup_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_area
+  nameWithType: IColumnChanger.Change_bracket_chin_stirrup_area
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group(System.Guid,YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_bracket_chin_stirrup_group(Guid, Rebar?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_stirrup_group_System_Guid_YW_PC_SPEC_Rebar_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group(System.Guid,YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_bracket_chin_stirrup_group(Guid, Rebar, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group(System.Guid, YW.PC.SPEC.Rebar?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group(System.Guid, YW.PC.SPEC.Rebar, Double?, Double?)
+  nameWithType: IColumnChanger.Change_bracket_chin_stirrup_group(Guid, Rebar?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_bracket_chin_stirrup_group(Guid, Rebar, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group*
+  name: Change_bracket_chin_stirrup_group
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_chin_stirrup_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_chin_stirrup_group
+  nameWithType: IColumnChanger.Change_bracket_chin_stirrup_group
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_bracket_concrete(Guid, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_concrete_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_bracket_concrete(Guid, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete(System.Guid, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete(System.Guid, Double?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_bracket_concrete(Guid, double?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_bracket_concrete(Guid, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete*
+  name: Change_bracket_concrete
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_concrete_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_concrete
+  nameWithType: IColumnChanger.Change_bracket_concrete
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main(System.Guid,System.Collections.Generic.IEnumerable{System.Double},System.Nullable{System.Boolean},System.Nullable{System.Double},System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name: Change_bracket_front_back_main(Guid, IEnumerable<double>?, bool?, double?, double?, Rebar?, Rebar?, Rebar?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_front_back_main_System_Guid_System_Collections_Generic_IEnumerable_System_Double__System_Nullable_System_Boolean__System_Nullable_System_Double__System_Nullable_System_Double__YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main(System.Guid,System.Collections.Generic.IEnumerable{System.Double},System.Nullable{System.Boolean},System.Nullable{System.Double},System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name.vb: Change_bracket_front_back_main(Guid, IEnumerable(Of Double), Boolean?, Double?, Double?, Rebar, Rebar, Rebar)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main(System.Guid, System.Collections.Generic.IEnumerable<double>?, bool?, double?, double?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main(System.Guid, System.Collections.Generic.IEnumerable(Of Double), Boolean?, Double?, Double?, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar)
+  nameWithType: IColumnChanger.Change_bracket_front_back_main(Guid, IEnumerable<double>?, bool?, double?, double?, Rebar?, Rebar?, Rebar?)
+  nameWithType.vb: IColumnChanger.Change_bracket_front_back_main(Guid, IEnumerable(Of Double), Boolean?, Double?, Double?, Rebar, Rebar, Rebar)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main*
+  name: Change_bracket_front_back_main
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_front_back_main_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_front_back_main
+  nameWithType: IColumnChanger.Change_bracket_front_back_main
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right(System.Guid,System.Collections.Generic.IEnumerable{System.Double},System.Nullable{System.Boolean},System.Nullable{System.Double},System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name: Change_bracket_left_right(Guid, IEnumerable<double>?, bool?, double?, double?, Rebar?, Rebar?, Rebar?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_left_right_System_Guid_System_Collections_Generic_IEnumerable_System_Double__System_Nullable_System_Boolean__System_Nullable_System_Double__System_Nullable_System_Double__YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right(System.Guid,System.Collections.Generic.IEnumerable{System.Double},System.Nullable{System.Boolean},System.Nullable{System.Double},System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name.vb: Change_bracket_left_right(Guid, IEnumerable(Of Double), Boolean?, Double?, Double?, Rebar, Rebar, Rebar)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right(System.Guid, System.Collections.Generic.IEnumerable<double>?, bool?, double?, double?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right(System.Guid, System.Collections.Generic.IEnumerable(Of Double), Boolean?, Double?, Double?, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar)
+  nameWithType: IColumnChanger.Change_bracket_left_right(Guid, IEnumerable<double>?, bool?, double?, double?, Rebar?, Rebar?, Rebar?)
+  nameWithType.vb: IColumnChanger.Change_bracket_left_right(Guid, IEnumerable(Of Double), Boolean?, Double?, Double?, Rebar, Rebar, Rebar)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right*
+  name: Change_bracket_left_right
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_left_right_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_left_right
+  nameWithType: IColumnChanger.Change_bracket_left_right
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup(System.Guid,System.Nullable{YW.GEO.RectangularCorner},YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_bracket_stirrup(Guid, RectangularCorner?, Rebar?, double?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_stirrup_System_Guid_System_Nullable_YW_GEO_RectangularCorner__YW_PC_SPEC_Rebar_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup(System.Guid,System.Nullable{YW.GEO.RectangularCorner},YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_bracket_stirrup(Guid, RectangularCorner?, Rebar, Double?, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup(System.Guid, YW.GEO.RectangularCorner?, YW.PC.SPEC.Rebar?, double?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup(System.Guid, YW.GEO.RectangularCorner?, YW.PC.SPEC.Rebar, Double?, Double?, Double?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_bracket_stirrup(Guid, RectangularCorner?, Rebar?, double?, double?, double?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_bracket_stirrup(Guid, RectangularCorner?, Rebar, Double?, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup*
+  name: Change_bracket_stirrup
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_stirrup_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup
+  nameWithType: IColumnChanger.Change_bracket_stirrup
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area(System.Guid,System.Nullable{System.Int32},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_bracket_stirrup_area(Guid, int?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_stirrup_area_System_Guid_System_Nullable_System_Int32__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area(System.Guid,System.Nullable{System.Int32},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_bracket_stirrup_area(Guid, Integer?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area(System.Guid, int?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area(System.Guid, Integer?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_bracket_stirrup_area(Guid, int?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_bracket_stirrup_area(Guid, Integer?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area*
+  name: Change_bracket_stirrup_area
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_bracket_stirrup_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_bracket_stirrup_area
+  nameWithType: IColumnChanger.Change_bracket_stirrup_area
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_column_size(double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_column_size_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_column_size(Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size(double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size(Double?, Double?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_column_size(double?, double?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_column_size(Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size*
+  name: Change_column_size
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_column_size_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_column_size
+  nameWithType: IColumnChanger.Change_column_size
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec(YW.PC.SPEC.LiftingAnchor,YW.PC.SPEC.Insert)
+  name: Change_concrete_hardware_spec(LiftingAnchor?, Insert?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_concrete_hardware_spec_YW_PC_SPEC_LiftingAnchor_YW_PC_SPEC_Insert_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec(YW.PC.SPEC.LiftingAnchor,YW.PC.SPEC.Insert)
+  name.vb: Change_concrete_hardware_spec(LiftingAnchor, Insert)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec(YW.PC.SPEC.LiftingAnchor?, YW.PC.SPEC.Insert?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec(YW.PC.SPEC.LiftingAnchor, YW.PC.SPEC.Insert)
+  nameWithType: IColumnChanger.Change_concrete_hardware_spec(LiftingAnchor?, Insert?)
+  nameWithType.vb: IColumnChanger.Change_concrete_hardware_spec(LiftingAnchor, Insert)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec*
+  name: Change_concrete_hardware_spec
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_concrete_hardware_spec_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_concrete_hardware_spec
+  nameWithType: IColumnChanger.Change_concrete_hardware_spec
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar(System.Nullable{System.Double},YW.PC.SPEC.Rebar)
+  name: Change_connection_rebar(double?, Rebar?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_connection_rebar_System_Nullable_System_Double__YW_PC_SPEC_Rebar_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar(System.Nullable{System.Double},YW.PC.SPEC.Rebar)
+  name.vb: Change_connection_rebar(Double?, Rebar)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar(double?, YW.PC.SPEC.Rebar?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar(Double?, YW.PC.SPEC.Rebar)
+  nameWithType: IColumnChanger.Change_connection_rebar(double?, Rebar?)
+  nameWithType.vb: IColumnChanger.Change_connection_rebar(Double?, Rebar)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar*
+  name: Change_connection_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_connection_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar
+  nameWithType: IColumnChanger.Change_connection_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_connection_rebar_guide(double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_connection_rebar_guide_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_connection_rebar_guide(Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide(double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide(Double?, Double?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_connection_rebar_guide(double?, double?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_connection_rebar_guide(Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide*
+  name: Change_connection_rebar_guide
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_connection_rebar_guide_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_guide
+  nameWithType: IColumnChanger.Change_connection_rebar_guide
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect(YW.PC.FACTOR.PositionOnRect,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double})
+  name: Change_connection_rebar_position_on_rect(PositionOnRect, RectangularDirection?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_connection_rebar_position_on_rect_YW_PC_FACTOR_PositionOnRect_System_Nullable_YW_GEO_RectangularDirection__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect(YW.PC.FACTOR.PositionOnRect,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double})
+  name.vb: Change_connection_rebar_position_on_rect(PositionOnRect, RectangularDirection?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect(YW.PC.FACTOR.PositionOnRect, YW.GEO.RectangularDirection?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect(YW.PC.FACTOR.PositionOnRect, YW.GEO.RectangularDirection?, Double?)
+  nameWithType: IColumnChanger.Change_connection_rebar_position_on_rect(PositionOnRect, RectangularDirection?, double?)
+  nameWithType.vb: IColumnChanger.Change_connection_rebar_position_on_rect(PositionOnRect, RectangularDirection?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect*
+  name: Change_connection_rebar_position_on_rect
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_connection_rebar_position_on_rect_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_connection_rebar_position_on_rect
+  nameWithType: IColumnChanger.Change_connection_rebar_position_on_rect
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar(System.Guid,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Boolean},System.Nullable{System.Boolean})
+  name: Change_main_rebar(Guid, RectangularDirection?, double?, double?, double?, bool?, bool?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_main_rebar_System_Guid_System_Nullable_YW_GEO_RectangularDirection__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Boolean__System_Nullable_System_Boolean__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar(System.Guid,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Boolean},System.Nullable{System.Boolean})
+  name.vb: Change_main_rebar(Guid, RectangularDirection?, Double?, Double?, Double?, Boolean?, Boolean?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar(System.Guid, YW.GEO.RectangularDirection?, double?, double?, double?, bool?, bool?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar(System.Guid, YW.GEO.RectangularDirection?, Double?, Double?, Double?, Boolean?, Boolean?)
+  nameWithType: IColumnChanger.Change_main_rebar(Guid, RectangularDirection?, double?, double?, double?, bool?, bool?)
+  nameWithType.vb: IColumnChanger.Change_main_rebar(Guid, RectangularDirection?, Double?, Double?, Double?, Boolean?, Boolean?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar*
+  name: Change_main_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_main_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar
+  nameWithType: IColumnChanger.Change_main_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group(System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Sleeve,YW.PC.SPEC.Terminator)
+  name: Change_main_rebar_group(double?, Rebar?, Sleeve?, Terminator?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_main_rebar_group_System_Nullable_System_Double__YW_PC_SPEC_Rebar_YW_PC_SPEC_Sleeve_YW_PC_SPEC_Terminator_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group(System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Sleeve,YW.PC.SPEC.Terminator)
+  name.vb: Change_main_rebar_group(Double?, Rebar, Sleeve, Terminator)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group(double?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Sleeve?, YW.PC.SPEC.Terminator?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group(Double?, YW.PC.SPEC.Rebar, YW.PC.SPEC.Sleeve, YW.PC.SPEC.Terminator)
+  nameWithType: IColumnChanger.Change_main_rebar_group(double?, Rebar?, Sleeve?, Terminator?)
+  nameWithType.vb: IColumnChanger.Change_main_rebar_group(Double?, Rebar, Sleeve, Terminator)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group*
+  name: Change_main_rebar_group
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_main_rebar_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_main_rebar_group
+  nameWithType: IColumnChanger.Change_main_rebar_group
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Int32})
+  name: Change_stirrup_arrangement(double?, double?, double?, int?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_stirrup_arrangement_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Int32__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Int32})
+  name.vb: Change_stirrup_arrangement(Double?, Double?, Double?, Integer?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement(double?, double?, double?, int?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement(Double?, Double?, Double?, Integer?)
+  nameWithType: IColumnChanger.Change_stirrup_arrangement(double?, double?, double?, int?)
+  nameWithType.vb: IColumnChanger.Change_stirrup_arrangement(Double?, Double?, Double?, Integer?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement*
+  name: Change_stirrup_arrangement
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_stirrup_arrangement_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_arrangement
+  nameWithType: IColumnChanger.Change_stirrup_arrangement
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross(System.Guid,System.Nullable{System.DoubleNumerics.Vector2},System.Nullable{System.DoubleNumerics.Vector2},YW.PC.SPEC.Rebar,System.Nullable{YW.CORE.LeftRight},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{YW.CORE.LeftRight},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_stirrup_cross(Guid, Vector2?, Vector2?, Rebar?, LeftRight?, double?, double?, LeftRight?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_stirrup_cross_System_Guid_System_Nullable_System_DoubleNumerics_Vector2__System_Nullable_System_DoubleNumerics_Vector2__YW_PC_SPEC_Rebar_System_Nullable_YW_CORE_LeftRight__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_YW_CORE_LeftRight__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross(System.Guid,System.Nullable{System.DoubleNumerics.Vector2},System.Nullable{System.DoubleNumerics.Vector2},YW.PC.SPEC.Rebar,System.Nullable{YW.CORE.LeftRight},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{YW.CORE.LeftRight},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_stirrup_cross(Guid, Vector2?, Vector2?, Rebar, LeftRight?, Double?, Double?, LeftRight?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross(System.Guid, System.DoubleNumerics.Vector2?, System.DoubleNumerics.Vector2?, YW.PC.SPEC.Rebar?, YW.CORE.LeftRight?, double?, double?, YW.CORE.LeftRight?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross(System.Guid, System.DoubleNumerics.Vector2?, System.DoubleNumerics.Vector2?, YW.PC.SPEC.Rebar, YW.CORE.LeftRight?, Double?, Double?, YW.CORE.LeftRight?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_stirrup_cross(Guid, Vector2?, Vector2?, Rebar?, LeftRight?, double?, double?, LeftRight?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_stirrup_cross(Guid, Vector2?, Vector2?, Rebar, LeftRight?, Double?, Double?, LeftRight?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross*
+  name: Change_stirrup_cross
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_stirrup_cross_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_cross
+  nameWithType: IColumnChanger.Change_stirrup_cross
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop(System.Nullable{YW.GEO.RectangularCorner},YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_stirrup_hoop(RectangularCorner?, Rebar?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_stirrup_hoop_System_Nullable_YW_GEO_RectangularCorner__YW_PC_SPEC_Rebar_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop(System.Nullable{YW.GEO.RectangularCorner},YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_stirrup_hoop(RectangularCorner?, Rebar, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop(YW.GEO.RectangularCorner?, YW.PC.SPEC.Rebar?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop(YW.GEO.RectangularCorner?, YW.PC.SPEC.Rebar, Double?, Double?, Double?, Double?)
+  nameWithType: IColumnChanger.Change_stirrup_hoop(RectangularCorner?, Rebar?, double?, double?, double?, double?)
+  nameWithType.vb: IColumnChanger.Change_stirrup_hoop(RectangularCorner?, Rebar, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop*
+  name: Change_stirrup_hoop
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Change_stirrup_hoop_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Change_stirrup_hoop
+  nameWithType: IColumnChanger.Change_stirrup_hoop
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_anchor(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  name: Remove_anchor(CuboidDirection, Vector2)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_anchor_YW_GEO_CuboidDirection_System_DoubleNumerics_Vector2_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_anchor(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_anchor(YW.GEO.CuboidDirection, System.DoubleNumerics.Vector2)
+  nameWithType: IColumnChanger.Remove_anchor(CuboidDirection, Vector2)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_anchor*
+  name: Remove_anchor
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_anchor_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_anchor
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_anchor
+  nameWithType: IColumnChanger.Remove_anchor
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_bracket_chin(System.Guid)
+  name: Remove_bracket_chin(Guid)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_bracket_chin_System_Guid_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_bracket_chin(System.Guid)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_bracket_chin(System.Guid)
+  nameWithType: IColumnChanger.Remove_bracket_chin(Guid)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_bracket_chin*
+  name: Remove_bracket_chin
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_bracket_chin_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_bracket_chin
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_bracket_chin
+  nameWithType: IColumnChanger.Remove_bracket_chin
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_connection_rebar(YW.PC.FACTOR.PositionOnRect)
+  name: Remove_connection_rebar(PositionOnRect)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_connection_rebar_YW_PC_FACTOR_PositionOnRect_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_connection_rebar(YW.PC.FACTOR.PositionOnRect)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_connection_rebar(YW.PC.FACTOR.PositionOnRect)
+  nameWithType: IColumnChanger.Remove_connection_rebar(PositionOnRect)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_connection_rebar*
+  name: Remove_connection_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_connection_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_connection_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_connection_rebar
+  nameWithType: IColumnChanger.Remove_connection_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_cross_tie(System.Guid)
+  name: Remove_cross_tie(Guid)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_cross_tie_System_Guid_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_cross_tie(System.Guid)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_cross_tie(System.Guid)
+  nameWithType: IColumnChanger.Remove_cross_tie(Guid)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_cross_tie*
+  name: Remove_cross_tie
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_cross_tie_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_cross_tie
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_cross_tie
+  nameWithType: IColumnChanger.Remove_cross_tie
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_insert(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  name: Remove_insert(CuboidDirection, Vector2)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_insert_YW_GEO_CuboidDirection_System_DoubleNumerics_Vector2_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_insert(YW.GEO.CuboidDirection,System.DoubleNumerics.Vector2)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_insert(YW.GEO.CuboidDirection, System.DoubleNumerics.Vector2)
+  nameWithType: IColumnChanger.Remove_insert(CuboidDirection, Vector2)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_insert*
+  name: Remove_insert
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_insert_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_insert
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_insert
+  nameWithType: IColumnChanger.Remove_insert
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_main_rebar(System.Guid)
+  name: Remove_main_rebar(Guid)
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_main_rebar_System_Guid_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_main_rebar(System.Guid)
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_main_rebar(System.Guid)
+  nameWithType: IColumnChanger.Remove_main_rebar(Guid)
+- uid: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_main_rebar*
+  name: Remove_main_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnChanger.html#YW_SERVICE_PC_COMPONENT_IColumnChanger_Remove_main_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_main_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnChanger.Remove_main_rebar
+  nameWithType: IColumnChanger.Remove_main_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter
+  name: IColumnGetter
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.IColumnGetter
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter
+  nameWithType: IColumnGetter
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_component_info
+  name: Get_component_info()
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_component_info
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_component_info
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_component_info()
+  nameWithType: IColumnGetter.Get_component_info()
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_component_info*
+  name: Get_component_info
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_component_info_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_component_info
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_component_info
+  nameWithType: IColumnGetter.Get_component_info
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_data
+  name: Get_data()
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_data
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_data
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_data()
+  nameWithType: IColumnGetter.Get_data()
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_data*
+  name: Get_data
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_data_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_data
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_data
+  nameWithType: IColumnGetter.Get_data
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_factor
+  name: Get_factor()
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_factor
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_factor
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_factor()
+  nameWithType: IColumnGetter.Get_factor()
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_factor*
+  name: Get_factor
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_factor_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_factor
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_factor
+  nameWithType: IColumnGetter.Get_factor
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_geo
+  name: Get_geo()
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_geo
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_geo
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_geo()
+  nameWithType: IColumnGetter.Get_geo()
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_geo*
+  name: Get_geo
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_geo_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_geo
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_geo
+  nameWithType: IColumnGetter.Get_geo
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_publisher_port
+  name: Get_publisher_port()
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_publisher_port
+  commentId: M:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_publisher_port
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_publisher_port()
+  nameWithType: IColumnGetter.Get_publisher_port()
+- uid: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_publisher_port*
+  name: Get_publisher_port
+  href: api/YW.SERVICE.PC_COMPONENT.IColumnGetter.html#YW_SERVICE_PC_COMPONENT_IColumnGetter_Get_publisher_port_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_publisher_port
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IColumnGetter.Get_publisher_port
+  nameWithType: IColumnGetter.Get_publisher_port
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter
+  name: IComponentGetter
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.IComponentGetter
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter
+  nameWithType: IComponentGetter
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_component_info
+  name: Get_component_info()
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_component_info
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_component_info
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_component_info()
+  nameWithType: IComponentGetter.Get_component_info()
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_component_info*
+  name: Get_component_info
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_component_info_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_component_info
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_component_info
+  nameWithType: IComponentGetter.Get_component_info
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_data
+  name: Get_data()
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_data
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_data
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_data()
+  nameWithType: IComponentGetter.Get_data()
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_data*
+  name: Get_data
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_data_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_data
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_data
+  nameWithType: IComponentGetter.Get_data
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_factor
+  name: Get_factor()
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_factor
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_factor
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_factor()
+  nameWithType: IComponentGetter.Get_factor()
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_factor*
+  name: Get_factor
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_factor_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_factor
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_factor
+  nameWithType: IComponentGetter.Get_factor
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_geo
+  name: Get_geo()
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_geo
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_geo
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_geo()
+  nameWithType: IComponentGetter.Get_geo()
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_geo*
+  name: Get_geo
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_geo_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_geo
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_geo
+  nameWithType: IComponentGetter.Get_geo
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_publisher_port
+  name: Get_publisher_port()
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_publisher_port
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_publisher_port
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_publisher_port()
+  nameWithType: IComponentGetter.Get_publisher_port()
+- uid: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_publisher_port*
+  name: Get_publisher_port
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentGetter.html#YW_SERVICE_PC_COMPONENT_IComponentGetter_Get_publisher_port_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_publisher_port
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentGetter.Get_publisher_port
+  nameWithType: IComponentGetter.Get_publisher_port
+- uid: YW.SERVICE.PC_COMPONENT.IComponentSetter
+  name: IComponentSetter
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentSetter.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.IComponentSetter
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentSetter
+  nameWithType: IComponentSetter
+- uid: YW.SERVICE.PC_COMPONENT.IComponentSetter.Clear
+  name: Clear()
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentSetter.html#YW_SERVICE_PC_COMPONENT_IComponentSetter_Clear
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentSetter.Clear
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentSetter.Clear()
+  nameWithType: IComponentSetter.Clear()
+- uid: YW.SERVICE.PC_COMPONENT.IComponentSetter.Clear*
+  name: Clear
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentSetter.html#YW_SERVICE_PC_COMPONENT_IComponentSetter_Clear_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentSetter.Clear
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentSetter.Clear
+  nameWithType: IComponentSetter.Clear
+- uid: YW.SERVICE.PC_COMPONENT.IComponentSetter.Set_component(YW.PC.FACTOR.Component,YW.PC.INFO.ComponentInfo)
+  name: Set_component(Component, ComponentInfo)
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentSetter.html#YW_SERVICE_PC_COMPONENT_IComponentSetter_Set_component_YW_PC_FACTOR_Component_YW_PC_INFO_ComponentInfo_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IComponentSetter.Set_component(YW.PC.FACTOR.Component,YW.PC.INFO.ComponentInfo)
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentSetter.Set_component(YW.PC.FACTOR.Component, YW.PC.INFO.ComponentInfo)
+  nameWithType: IComponentSetter.Set_component(Component, ComponentInfo)
+- uid: YW.SERVICE.PC_COMPONENT.IComponentSetter.Set_component*
+  name: Set_component
+  href: api/YW.SERVICE.PC_COMPONENT.IComponentSetter.html#YW_SERVICE_PC_COMPONENT_IComponentSetter_Set_component_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IComponentSetter.Set_component
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IComponentSetter.Set_component
+  nameWithType: IComponentSetter.Set_component
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger
+  name: IGirderChanger
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.IGirderChanger
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger
+  nameWithType: IGirderChanger
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar(System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Add_back_anchorage_rebar(int, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_back_anchorage_rebar_System_Int32_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar(System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Add_back_anchorage_rebar(Integer, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar(int, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar(Integer, Double?, Double?)
+  nameWithType: IGirderChanger.Add_back_anchorage_rebar(int, double?, double?)
+  nameWithType.vb: IGirderChanger.Add_back_anchorage_rebar(Integer, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar*
+  name: Add_back_anchorage_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_back_anchorage_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_back_anchorage_rebar
+  nameWithType: IGirderChanger.Add_back_anchorage_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area(YW.CORE.DoubleRange[])
+  name: Add_closed_stirrups_group_area(params DoubleRange[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_closed_stirrups_group_area_YW_CORE_DoubleRange___
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area(YW.CORE.DoubleRange[])
+  name.vb: Add_closed_stirrups_group_area(ParamArray DoubleRange())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area(params YW.CORE.DoubleRange[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area(ParamArray YW.CORE.DoubleRange())
+  nameWithType: IGirderChanger.Add_closed_stirrups_group_area(params DoubleRange[])
+  nameWithType.vb: IGirderChanger.Add_closed_stirrups_group_area(ParamArray DoubleRange())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area*
+  name: Add_closed_stirrups_group_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_closed_stirrups_group_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_closed_stirrups_group_area
+  nameWithType: IGirderChanger.Add_closed_stirrups_group_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar(System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Add_front_anchorage_rebar(int, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_front_anchorage_rebar_System_Int32_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar(System.Int32,System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Add_front_anchorage_rebar(Integer, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar(int, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar(Integer, Double?, Double?)
+  nameWithType: IGirderChanger.Add_front_anchorage_rebar(int, double?, double?)
+  nameWithType.vb: IGirderChanger.Add_front_anchorage_rebar(Integer, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar*
+  name: Add_front_anchorage_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_front_anchorage_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_front_anchorage_rebar
+  nameWithType: IGirderChanger.Add_front_anchorage_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes(YW.GEO.ContourPolygon{YW.GEO.ChamferRectangle,YW.GEO.Segment3D}[])
+  name: Add_interferes(params ContourPolygon<ChamferRectangle, Segment3D>[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_interferes_YW_GEO_ContourPolygon_YW_GEO_ChamferRectangle_YW_GEO_Segment3D____
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes(YW.GEO.ContourPolygon{YW.GEO.ChamferRectangle,YW.GEO.Segment3D}[])
+  name.vb: Add_interferes(ParamArray ContourPolygon(Of ChamferRectangle, Segment3D)())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes(params YW.GEO.ContourPolygon<YW.GEO.ChamferRectangle, YW.GEO.Segment3D>[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes(ParamArray YW.GEO.ContourPolygon(Of YW.GEO.ChamferRectangle, YW.GEO.Segment3D)())
+  nameWithType: IGirderChanger.Add_interferes(params ContourPolygon<ChamferRectangle, Segment3D>[])
+  nameWithType.vb: IGirderChanger.Add_interferes(ParamArray ContourPolygon(Of ChamferRectangle, Segment3D)())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes*
+  name: Add_interferes
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_interferes_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_interferes
+  nameWithType: IGirderChanger.Add_interferes
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar(System.Guid,YW.GEO.RectangularDirection,System.Double)
+  name: Add_rebar(Guid, RectangularDirection, double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_rebar_System_Guid_YW_GEO_RectangularDirection_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar(System.Guid,YW.GEO.RectangularDirection,System.Double)
+  name.vb: Add_rebar(Guid, RectangularDirection, Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar(System.Guid, YW.GEO.RectangularDirection, double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar(System.Guid, YW.GEO.RectangularDirection, Double)
+  nameWithType: IGirderChanger.Add_rebar(Guid, RectangularDirection, double)
+  nameWithType.vb: IGirderChanger.Add_rebar(Guid, RectangularDirection, Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar*
+  name: Add_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_rebar
+  nameWithType: IGirderChanger.Add_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area(YW.CORE.DoubleRange[])
+  name: Add_u_stirrup_group_area(params DoubleRange[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_u_stirrup_group_area_YW_CORE_DoubleRange___
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area(YW.CORE.DoubleRange[])
+  name.vb: Add_u_stirrup_group_area(ParamArray DoubleRange())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area(params YW.CORE.DoubleRange[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area(ParamArray YW.CORE.DoubleRange())
+  nameWithType: IGirderChanger.Add_u_stirrup_group_area(params DoubleRange[])
+  nameWithType.vb: IGirderChanger.Add_u_stirrup_group_area(ParamArray DoubleRange())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area*
+  name: Add_u_stirrup_group_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Add_u_stirrup_group_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Add_u_stirrup_group_area
+  nameWithType: IGirderChanger.Add_u_stirrup_group_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar(YW.PC.SPEC.Rebar,System.Nullable{System.Double})
+  name: Change_back_anchorage_rebar(Rebar?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_back_anchorage_rebar_YW_PC_SPEC_Rebar_System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar(YW.PC.SPEC.Rebar,System.Nullable{System.Double})
+  name.vb: Change_back_anchorage_rebar(Rebar, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar(YW.PC.SPEC.Rebar?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar(YW.PC.SPEC.Rebar, Double?)
+  nameWithType: IGirderChanger.Change_back_anchorage_rebar(Rebar?, double?)
+  nameWithType.vb: IGirderChanger.Change_back_anchorage_rebar(Rebar, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar*
+  name: Change_back_anchorage_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_back_anchorage_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar
+  nameWithType: IGirderChanger.Change_back_anchorage_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_back_anchorage_rebar_group_spacing(double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_back_anchorage_rebar_group_spacing_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_back_anchorage_rebar_group_spacing(Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing(double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing(Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_back_anchorage_rebar_group_spacing(double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_back_anchorage_rebar_group_spacing(Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing*
+  name: Change_back_anchorage_rebar_group_spacing
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_back_anchorage_rebar_group_spacing_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_back_anchorage_rebar_group_spacing
+  nameWithType: IGirderChanger.Change_back_anchorage_rebar_group_spacing
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_boolean(double?, double?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_boolean_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_boolean(Double?, Double?, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean(double?, double?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean(Double?, Double?, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_boolean(double?, double?, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_boolean(Double?, Double?, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean*
+  name: Change_boolean
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_boolean_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_boolean
+  nameWithType: IGirderChanger.Change_boolean
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar(YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_cap_bar(Rebar?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_cap_bar_YW_PC_SPEC_Rebar_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar(YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_cap_bar(Rebar, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar(YW.PC.SPEC.Rebar?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar(YW.PC.SPEC.Rebar, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_cap_bar(Rebar?, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_cap_bar(Rebar, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar*
+  name: Change_cap_bar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_cap_bar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar
+  nameWithType: IGirderChanger.Change_cap_bar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_cap_bar_group(double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_cap_bar_group_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_cap_bar_group(Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group(double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group(Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_cap_bar_group(double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_cap_bar_group(Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group*
+  name: Change_cap_bar_group
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_cap_bar_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_cap_bar_group
+  nameWithType: IGirderChanger.Change_cap_bar_group
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_chin_shape(Guid, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_chin_shape_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_chin_shape(Guid, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape(System.Guid, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape(System.Guid, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_chin_shape(Guid, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_chin_shape(Guid, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape*
+  name: Change_chin_shape
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_chin_shape_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_chin_shape
+  nameWithType: IGirderChanger.Change_chin_shape
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_closed_stirrup_area(Guid, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_closed_stirrup_area_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_closed_stirrup_area(Guid, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area(System.Guid, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area(System.Guid, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_closed_stirrup_area(Guid, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_closed_stirrup_area(Guid, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area*
+  name: Change_closed_stirrup_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_closed_stirrup_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrup_area
+  nameWithType: IGirderChanger.Change_closed_stirrup_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups(System.Guid,YW.PC.SPEC.Rebar,System.Nullable{YW.GEO.RectangularCorner},System.Nullable{System.Int32},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_closed_stirrups(Guid, Rebar?, RectangularCorner?, int?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_closed_stirrups_System_Guid_YW_PC_SPEC_Rebar_System_Nullable_YW_GEO_RectangularCorner__System_Nullable_System_Int32__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups(System.Guid,YW.PC.SPEC.Rebar,System.Nullable{YW.GEO.RectangularCorner},System.Nullable{System.Int32},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_closed_stirrups(Guid, Rebar, RectangularCorner?, Integer?, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups(System.Guid, YW.PC.SPEC.Rebar?, YW.GEO.RectangularCorner?, int?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups(System.Guid, YW.PC.SPEC.Rebar, YW.GEO.RectangularCorner?, Integer?, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_closed_stirrups(Guid, Rebar?, RectangularCorner?, int?, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_closed_stirrups(Guid, Rebar, RectangularCorner?, Integer?, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups*
+  name: Change_closed_stirrups
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_closed_stirrups_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_closed_stirrups
+  nameWithType: IGirderChanger.Change_closed_stirrups
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity(System.Double)
+  name: Change_concrete_pocket_eccentricity(double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_pocket_eccentricity_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity(System.Double)
+  name.vb: Change_concrete_pocket_eccentricity(Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity(double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity(Double)
+  nameWithType: IGirderChanger.Change_concrete_pocket_eccentricity(double)
+  nameWithType.vb: IGirderChanger.Change_concrete_pocket_eccentricity(Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity*
+  name: Change_concrete_pocket_eccentricity
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_pocket_eccentricity_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_eccentricity
+  nameWithType: IGirderChanger.Change_concrete_pocket_eccentricity
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length(System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_concrete_pocket_length(double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_pocket_length_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length(System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_concrete_pocket_length(Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length(double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length(Double?, Double?)
+  nameWithType: IGirderChanger.Change_concrete_pocket_length(double?, double?)
+  nameWithType.vb: IGirderChanger.Change_concrete_pocket_length(Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length*
+  name: Change_concrete_pocket_length
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_pocket_length_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_length
+  nameWithType: IGirderChanger.Change_concrete_pocket_length
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_concrete_pocket_section(double?, double?, double?, double?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_pocket_section_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_concrete_pocket_section(Double?, Double?, Double?, Double?, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section(double?, double?, double?, double?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section(Double?, Double?, Double?, Double?, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_concrete_pocket_section(double?, double?, double?, double?, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_concrete_pocket_section(Double?, Double?, Double?, Double?, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section*
+  name: Change_concrete_pocket_section
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_pocket_section_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_pocket_section
+  nameWithType: IGirderChanger.Change_concrete_pocket_section
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_concrete_size(double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_size_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_concrete_size(Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size(double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size(Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_concrete_size(double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_concrete_size(Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size*
+  name: Change_concrete_size
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_concrete_size_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_concrete_size
+  nameWithType: IGirderChanger.Change_concrete_size
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height(System.Guid,System.Double)
+  name: Change_end_piece_height(Guid, double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_end_piece_height_System_Guid_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height(System.Guid,System.Double)
+  name.vb: Change_end_piece_height(Guid, Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height(System.Guid, double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height(System.Guid, Double)
+  nameWithType: IGirderChanger.Change_end_piece_height(Guid, double)
+  nameWithType.vb: IGirderChanger.Change_end_piece_height(Guid, Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height*
+  name: Change_end_piece_height
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_end_piece_height_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_height
+  nameWithType: IGirderChanger.Change_end_piece_height
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_end_piece_shape(Guid, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_end_piece_shape_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_end_piece_shape(Guid, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape(System.Guid, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape(System.Guid, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_end_piece_shape(Guid, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_end_piece_shape(Guid, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape*
+  name: Change_end_piece_shape
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_end_piece_shape_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_end_piece_shape
+  nameWithType: IGirderChanger.Change_end_piece_shape
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar(YW.PC.SPEC.Rebar,System.Nullable{System.Double})
+  name: Change_front_anchorage_rebar(Rebar?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_front_anchorage_rebar_YW_PC_SPEC_Rebar_System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar(YW.PC.SPEC.Rebar,System.Nullable{System.Double})
+  name.vb: Change_front_anchorage_rebar(Rebar, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar(YW.PC.SPEC.Rebar?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar(YW.PC.SPEC.Rebar, Double?)
+  nameWithType: IGirderChanger.Change_front_anchorage_rebar(Rebar?, double?)
+  nameWithType.vb: IGirderChanger.Change_front_anchorage_rebar(Rebar, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar*
+  name: Change_front_anchorage_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_front_anchorage_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar
+  nameWithType: IGirderChanger.Change_front_anchorage_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_front_anchorage_rebar_group_spacing(double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_front_anchorage_rebar_group_spacing_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_front_anchorage_rebar_group_spacing(Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing(double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing(Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_front_anchorage_rebar_group_spacing(double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_front_anchorage_rebar_group_spacing(Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing*
+  name: Change_front_anchorage_rebar_group_spacing
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_front_anchorage_rebar_group_spacing_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_front_anchorage_rebar_group_spacing
+  nameWithType: IGirderChanger.Change_front_anchorage_rebar_group_spacing
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size(System.Double)
+  name: Change_girder_size(double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_girder_size_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size(System.Double)
+  name.vb: Change_girder_size(Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size(double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size(Double)
+  nameWithType: IGirderChanger.Change_girder_size(double)
+  nameWithType.vb: IGirderChanger.Change_girder_size(Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size*
+  name: Change_girder_size
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_girder_size_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_girder_size
+  nameWithType: IGirderChanger.Change_girder_size
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area(YW.CORE.DoubleRange[])
+  name: Change_left_slab_area(params DoubleRange[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_left_slab_area_YW_CORE_DoubleRange___
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area(YW.CORE.DoubleRange[])
+  name.vb: Change_left_slab_area(ParamArray DoubleRange())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area(params YW.CORE.DoubleRange[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area(ParamArray YW.CORE.DoubleRange())
+  nameWithType: IGirderChanger.Change_left_slab_area(params DoubleRange[])
+  nameWithType.vb: IGirderChanger.Change_left_slab_area(ParamArray DoubleRange())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area*
+  name: Change_left_slab_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_left_slab_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_left_slab_area
+  nameWithType: IGirderChanger.Change_left_slab_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar(System.Guid,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double},System.Nullable{YW.PC.GirderRebarSpecType},YW.PC.SPEC.Rebar)
+  name: Change_rebar(Guid, RectangularDirection?, double?, GirderRebarSpecType?, Rebar?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_rebar_System_Guid_System_Nullable_YW_GEO_RectangularDirection__System_Nullable_System_Double__System_Nullable_YW_PC_GirderRebarSpecType__YW_PC_SPEC_Rebar_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar(System.Guid,System.Nullable{YW.GEO.RectangularDirection},System.Nullable{System.Double},System.Nullable{YW.PC.GirderRebarSpecType},YW.PC.SPEC.Rebar)
+  name.vb: Change_rebar(Guid, RectangularDirection?, Double?, GirderRebarSpecType?, Rebar)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar(System.Guid, YW.GEO.RectangularDirection?, double?, YW.PC.GirderRebarSpecType?, YW.PC.SPEC.Rebar?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar(System.Guid, YW.GEO.RectangularDirection?, Double?, YW.PC.GirderRebarSpecType?, YW.PC.SPEC.Rebar)
+  nameWithType: IGirderChanger.Change_rebar(Guid, RectangularDirection?, double?, GirderRebarSpecType?, Rebar?)
+  nameWithType.vb: IGirderChanger.Change_rebar(Guid, RectangularDirection?, Double?, GirderRebarSpecType?, Rebar)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar*
+  name: Change_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar
+  nameWithType: IGirderChanger.Change_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec(YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name: Change_rebar_spec(Rebar?, Rebar?, Rebar?, Rebar?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_rebar_spec_YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec(YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar)
+  name.vb: Change_rebar_spec(Rebar, Rebar, Rebar, Rebar)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec(YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec(YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar)
+  nameWithType: IGirderChanger.Change_rebar_spec(Rebar?, Rebar?, Rebar?, Rebar?)
+  nameWithType.vb: IGirderChanger.Change_rebar_spec(Rebar, Rebar, Rebar, Rebar)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec*
+  name: Change_rebar_spec
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_rebar_spec_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_rebar_spec
+  nameWithType: IGirderChanger.Change_rebar_spec
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area(YW.CORE.DoubleRange[])
+  name: Change_right_slab_area(params DoubleRange[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_right_slab_area_YW_CORE_DoubleRange___
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area(YW.CORE.DoubleRange[])
+  name.vb: Change_right_slab_area(ParamArray DoubleRange())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area(params YW.CORE.DoubleRange[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area(ParamArray YW.CORE.DoubleRange())
+  nameWithType: IGirderChanger.Change_right_slab_area(params DoubleRange[])
+  nameWithType.vb: IGirderChanger.Change_right_slab_area(ParamArray DoubleRange())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area*
+  name: Change_right_slab_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_right_slab_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_right_slab_area
+  nameWithType: IGirderChanger.Change_right_slab_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_stirrup_edge(double?, double?, double?, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_stirrup_edge_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_stirrup_edge(Double?, Double?, Double?, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge(double?, double?, double?, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge(Double?, Double?, Double?, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_stirrup_edge(double?, double?, double?, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_stirrup_edge(Double?, Double?, Double?, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge*
+  name: Change_stirrup_edge
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_stirrup_edge_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_stirrup_edge
+  nameWithType: IGirderChanger.Change_stirrup_edge
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup(System.Guid,YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_u_stirrup(Guid, Rebar?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrup_System_Guid_YW_PC_SPEC_Rebar_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup(System.Guid,YW.PC.SPEC.Rebar,System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_u_stirrup(Guid, Rebar, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup(System.Guid, YW.PC.SPEC.Rebar?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup(System.Guid, YW.PC.SPEC.Rebar, Double?, Double?)
+  nameWithType: IGirderChanger.Change_u_stirrup(Guid, Rebar?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_u_stirrup(Guid, Rebar, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup*
+  name: Change_u_stirrup
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrup_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup
+  nameWithType: IGirderChanger.Change_u_stirrup
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group(System.Double)
+  name: Change_u_stirrup_group(double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrup_group_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group(System.Double)
+  name.vb: Change_u_stirrup_group(Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group(double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group(Double)
+  nameWithType: IGirderChanger.Change_u_stirrup_group(double)
+  nameWithType.vb: IGirderChanger.Change_u_stirrup_group(Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group*
+  name: Change_u_stirrup_group
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrup_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrup_group
+  nameWithType: IGirderChanger.Change_u_stirrup_group
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups(System.Guid,System.Nullable{System.Int32},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_u_stirrups(Guid, int?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrups_System_Guid_System_Nullable_System_Int32__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups(System.Guid,System.Nullable{System.Int32},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_u_stirrups(Guid, Integer?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups(System.Guid, int?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups(System.Guid, Integer?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_u_stirrups(Guid, int?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_u_stirrups(Guid, Integer?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups*
+  name: Change_u_stirrups
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrups_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups
+  nameWithType: IGirderChanger.Change_u_stirrups
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_u_stirrups_area(Guid, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrups_area_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_u_stirrups_area(Guid, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area(System.Guid, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area(System.Guid, Double?, Double?, Double?)
+  nameWithType: IGirderChanger.Change_u_stirrups_area(Guid, double?, double?, double?)
+  nameWithType.vb: IGirderChanger.Change_u_stirrups_area(Guid, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area*
+  name: Change_u_stirrups_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_u_stirrups_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_u_stirrups_area
+  nameWithType: IGirderChanger.Change_u_stirrups_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active(System.Guid,System.Boolean)
+  name: Change_wire_active(Guid, bool)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_wire_active_System_Guid_System_Boolean_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active(System.Guid,System.Boolean)
+  name.vb: Change_wire_active(Guid, Boolean)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active(System.Guid, bool)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active(System.Guid, Boolean)
+  nameWithType: IGirderChanger.Change_wire_active(Guid, bool)
+  nameWithType.vb: IGirderChanger.Change_wire_active(Guid, Boolean)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active*
+  name: Change_wire_active
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_wire_active_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_active
+  nameWithType: IGirderChanger.Change_wire_active
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group(YW.PC.SPEC.Wire,System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Double})
+  name: Change_wire_group(Wire?, int?, int?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_wire_group_YW_PC_SPEC_Wire_System_Nullable_System_Int32__System_Nullable_System_Int32__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group(YW.PC.SPEC.Wire,System.Nullable{System.Int32},System.Nullable{System.Int32},System.Nullable{System.Double})
+  name.vb: Change_wire_group(Wire, Integer?, Integer?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group(YW.PC.SPEC.Wire?, int?, int?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group(YW.PC.SPEC.Wire, Integer?, Integer?, Double?)
+  nameWithType: IGirderChanger.Change_wire_group(Wire?, int?, int?, double?)
+  nameWithType.vb: IGirderChanger.Change_wire_group(Wire, Integer?, Integer?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group*
+  name: Change_wire_group
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Change_wire_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Change_wire_group
+  nameWithType: IGirderChanger.Change_wire_group
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_closed_stirrup_group_area
+  name: Clear_closed_stirrup_group_area()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Clear_closed_stirrup_group_area
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_closed_stirrup_group_area
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_closed_stirrup_group_area()
+  nameWithType: IGirderChanger.Clear_closed_stirrup_group_area()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_closed_stirrup_group_area*
+  name: Clear_closed_stirrup_group_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Clear_closed_stirrup_group_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_closed_stirrup_group_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_closed_stirrup_group_area
+  nameWithType: IGirderChanger.Clear_closed_stirrup_group_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_interferes
+  name: Clear_interferes()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Clear_interferes
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_interferes
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_interferes()
+  nameWithType: IGirderChanger.Clear_interferes()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_interferes*
+  name: Clear_interferes
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Clear_interferes_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_interferes
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_interferes
+  nameWithType: IGirderChanger.Clear_interferes
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_u_stirrup_group_area
+  name: Clear_u_stirrup_group_area()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Clear_u_stirrup_group_area
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_u_stirrup_group_area
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_u_stirrup_group_area()
+  nameWithType: IGirderChanger.Clear_u_stirrup_group_area()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_u_stirrup_group_area*
+  name: Clear_u_stirrup_group_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Clear_u_stirrup_group_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_u_stirrup_group_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Clear_u_stirrup_group_area
+  nameWithType: IGirderChanger.Clear_u_stirrup_group_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar(System.Int32,System.Double)
+  name: Remove_back_anchorage_rebar(int, double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_back_anchorage_rebar_System_Int32_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar(System.Int32,System.Double)
+  name.vb: Remove_back_anchorage_rebar(Integer, Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar(int, double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar(Integer, Double)
+  nameWithType: IGirderChanger.Remove_back_anchorage_rebar(int, double)
+  nameWithType.vb: IGirderChanger.Remove_back_anchorage_rebar(Integer, Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar*
+  name: Remove_back_anchorage_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_back_anchorage_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_back_anchorage_rebar
+  nameWithType: IGirderChanger.Remove_back_anchorage_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area(YW.CORE.DoubleRange[])
+  name: Remove_closed_stirrups_group_area(params DoubleRange[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_closed_stirrups_group_area_YW_CORE_DoubleRange___
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area(YW.CORE.DoubleRange[])
+  name.vb: Remove_closed_stirrups_group_area(ParamArray DoubleRange())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area(params YW.CORE.DoubleRange[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area(ParamArray YW.CORE.DoubleRange())
+  nameWithType: IGirderChanger.Remove_closed_stirrups_group_area(params DoubleRange[])
+  nameWithType.vb: IGirderChanger.Remove_closed_stirrups_group_area(ParamArray DoubleRange())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area*
+  name: Remove_closed_stirrups_group_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_closed_stirrups_group_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_closed_stirrups_group_area
+  nameWithType: IGirderChanger.Remove_closed_stirrups_group_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar(System.Int32,System.Double)
+  name: Remove_front_anchorage_rebar(int, double)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_front_anchorage_rebar_System_Int32_System_Double_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar(System.Int32,System.Double)
+  name.vb: Remove_front_anchorage_rebar(Integer, Double)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar(int, double)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar(Integer, Double)
+  nameWithType: IGirderChanger.Remove_front_anchorage_rebar(int, double)
+  nameWithType.vb: IGirderChanger.Remove_front_anchorage_rebar(Integer, Double)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar*
+  name: Remove_front_anchorage_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_front_anchorage_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_front_anchorage_rebar
+  nameWithType: IGirderChanger.Remove_front_anchorage_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes(YW.GEO.ContourPolygon{YW.GEO.ChamferRectangle,YW.GEO.Segment3D}[])
+  name: Remove_interferes(params ContourPolygon<ChamferRectangle, Segment3D>[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_interferes_YW_GEO_ContourPolygon_YW_GEO_ChamferRectangle_YW_GEO_Segment3D____
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes(YW.GEO.ContourPolygon{YW.GEO.ChamferRectangle,YW.GEO.Segment3D}[])
+  name.vb: Remove_interferes(ParamArray ContourPolygon(Of ChamferRectangle, Segment3D)())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes(params YW.GEO.ContourPolygon<YW.GEO.ChamferRectangle, YW.GEO.Segment3D>[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes(ParamArray YW.GEO.ContourPolygon(Of YW.GEO.ChamferRectangle, YW.GEO.Segment3D)())
+  nameWithType: IGirderChanger.Remove_interferes(params ContourPolygon<ChamferRectangle, Segment3D>[])
+  nameWithType.vb: IGirderChanger.Remove_interferes(ParamArray ContourPolygon(Of ChamferRectangle, Segment3D)())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes*
+  name: Remove_interferes
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_interferes_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_interferes
+  nameWithType: IGirderChanger.Remove_interferes
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_rebar(System.Guid)
+  name: Remove_rebar(Guid)
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_rebar_System_Guid_
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_rebar(System.Guid)
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_rebar(System.Guid)
+  nameWithType: IGirderChanger.Remove_rebar(Guid)
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_rebar*
+  name: Remove_rebar
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_rebar_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_rebar
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_rebar
+  nameWithType: IGirderChanger.Remove_rebar
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area(YW.CORE.DoubleRange[])
+  name: Remove_u_stirrup_group_area(params DoubleRange[])
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_u_stirrup_group_area_YW_CORE_DoubleRange___
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area(YW.CORE.DoubleRange[])
+  name.vb: Remove_u_stirrup_group_area(ParamArray DoubleRange())
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area(params YW.CORE.DoubleRange[])
+  fullName.vb: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area(ParamArray YW.CORE.DoubleRange())
+  nameWithType: IGirderChanger.Remove_u_stirrup_group_area(params DoubleRange[])
+  nameWithType.vb: IGirderChanger.Remove_u_stirrup_group_area(ParamArray DoubleRange())
+- uid: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area*
+  name: Remove_u_stirrup_group_area
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderChanger.html#YW_SERVICE_PC_COMPONENT_IGirderChanger_Remove_u_stirrup_group_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderChanger.Remove_u_stirrup_group_area
+  nameWithType: IGirderChanger.Remove_u_stirrup_group_area
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter
+  name: IGirderGetter
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.IGirderGetter
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter
+  nameWithType: IGirderGetter
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_component_info
+  name: Get_component_info()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_component_info
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_component_info
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_component_info()
+  nameWithType: IGirderGetter.Get_component_info()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_component_info*
+  name: Get_component_info
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_component_info_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_component_info
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_component_info
+  nameWithType: IGirderGetter.Get_component_info
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_data
+  name: Get_data()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_data
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_data
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_data()
+  nameWithType: IGirderGetter.Get_data()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_data*
+  name: Get_data
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_data_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_data
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_data
+  nameWithType: IGirderGetter.Get_data
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_factor
+  name: Get_factor()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_factor
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_factor
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_factor()
+  nameWithType: IGirderGetter.Get_factor()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_factor*
+  name: Get_factor
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_factor_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_factor
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_factor
+  nameWithType: IGirderGetter.Get_factor
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_geo
+  name: Get_geo()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_geo
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_geo
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_geo()
+  nameWithType: IGirderGetter.Get_geo()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_geo*
+  name: Get_geo
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_geo_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_geo
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_geo
+  nameWithType: IGirderGetter.Get_geo
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_publisher_port
+  name: Get_publisher_port()
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_publisher_port
+  commentId: M:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_publisher_port
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_publisher_port()
+  nameWithType: IGirderGetter.Get_publisher_port()
+- uid: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_publisher_port*
+  name: Get_publisher_port
+  href: api/YW.SERVICE.PC_COMPONENT.IGirderGetter.html#YW_SERVICE_PC_COMPONENT_IGirderGetter_Get_publisher_port_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_publisher_port
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.IGirderGetter.Get_publisher_port
+  nameWithType: IGirderGetter.Get_publisher_port
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger
+  name: ISlabChanger
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.ISlabChanger
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger
+  nameWithType: ISlabChanger
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps(System.Collections.Generic.IEnumerable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_eps(IEnumerable<double>?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_eps_System_Collections_Generic_IEnumerable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps(System.Collections.Generic.IEnumerable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_eps(IEnumerable(Of Double), Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps(System.Collections.Generic.IEnumerable<double>?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps(System.Collections.Generic.IEnumerable(Of Double), Double?, Double?)
+  nameWithType: ISlabChanger.Change_eps(IEnumerable<double>?, double?, double?)
+  nameWithType.vb: ISlabChanger.Change_eps(IEnumerable(Of Double), Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps*
+  name: Change_eps
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_eps_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_eps
+  nameWithType: ISlabChanger.Change_eps
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,System.Nullable{System.Boolean})
+  name: Change_lattice(double?, double?, double?, Rebar?, Rebar?, bool?)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_lattice_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__YW_PC_SPEC_Rebar_YW_PC_SPEC_Rebar_System_Nullable_System_Boolean__
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice(System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double},YW.PC.SPEC.Rebar,YW.PC.SPEC.Rebar,System.Nullable{System.Boolean})
+  name.vb: Change_lattice(Double?, Double?, Double?, Rebar, Rebar, Boolean?)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice(double?, double?, double?, YW.PC.SPEC.Rebar?, YW.PC.SPEC.Rebar?, bool?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice(Double?, Double?, Double?, YW.PC.SPEC.Rebar, YW.PC.SPEC.Rebar, Boolean?)
+  nameWithType: ISlabChanger.Change_lattice(double?, double?, double?, Rebar?, Rebar?, bool?)
+  nameWithType.vb: ISlabChanger.Change_lattice(Double?, Double?, Double?, Rebar, Rebar, Boolean?)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice*
+  name: Change_lattice
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_lattice_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_lattice
+  nameWithType: ISlabChanger.Change_lattice
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket(System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_pocket(double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_pocket_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket(System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_pocket(Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket(double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket(Double?, Double?)
+  nameWithType: ISlabChanger.Change_pocket(double?, double?)
+  nameWithType.vb: ISlabChanger.Change_pocket(Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket*
+  name: Change_pocket
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_pocket_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_pocket
+  nameWithType: ISlabChanger.Change_pocket
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size(System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_slab_size(double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_slab_size_System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size(System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_slab_size(Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size(double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size(Double?, Double?)
+  nameWithType: ISlabChanger.Change_slab_size(double?, double?)
+  nameWithType.vb: ISlabChanger.Change_slab_size(Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size*
+  name: Change_slab_size
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_slab_size_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_slab_size
+  nameWithType: ISlabChanger.Change_slab_size
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group(System.Guid,YW.PC.SPEC.Wire,System.Nullable{System.Int32},System.Nullable{System.Double})
+  name: Change_wire_group(Guid, Wire?, int?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_wire_group_System_Guid_YW_PC_SPEC_Wire_System_Nullable_System_Int32__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group(System.Guid,YW.PC.SPEC.Wire,System.Nullable{System.Int32},System.Nullable{System.Double})
+  name.vb: Change_wire_group(Guid, Wire, Integer?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group(System.Guid, YW.PC.SPEC.Wire?, int?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group(System.Guid, YW.PC.SPEC.Wire, Integer?, Double?)
+  nameWithType: ISlabChanger.Change_wire_group(Guid, Wire?, int?, double?)
+  nameWithType.vb: ISlabChanger.Change_wire_group(Guid, Wire, Integer?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group*
+  name: Change_wire_group
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_wire_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_group
+  nameWithType: ISlabChanger.Change_wire_group
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name: Change_wire_mesh_rebar_area(Guid, double?, double?, double?)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_wire_mesh_rebar_area_System_Guid_System_Nullable_System_Double__System_Nullable_System_Double__System_Nullable_System_Double__
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area(System.Guid,System.Nullable{System.Double},System.Nullable{System.Double},System.Nullable{System.Double})
+  name.vb: Change_wire_mesh_rebar_area(Guid, Double?, Double?, Double?)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area(System.Guid, double?, double?, double?)
+  fullName.vb: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area(System.Guid, Double?, Double?, Double?)
+  nameWithType: ISlabChanger.Change_wire_mesh_rebar_area(Guid, double?, double?, double?)
+  nameWithType.vb: ISlabChanger.Change_wire_mesh_rebar_area(Guid, Double?, Double?, Double?)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area*
+  name: Change_wire_mesh_rebar_area
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_wire_mesh_rebar_area_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_area
+  nameWithType: ISlabChanger.Change_wire_mesh_rebar_area
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_group(System.Guid,YW.PC.SPEC.WireMesh)
+  name: Change_wire_mesh_rebar_group(Guid, WireMesh)
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_wire_mesh_rebar_group_System_Guid_YW_PC_SPEC_WireMesh_
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_group(System.Guid,YW.PC.SPEC.WireMesh)
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_group(System.Guid, YW.PC.SPEC.WireMesh)
+  nameWithType: ISlabChanger.Change_wire_mesh_rebar_group(Guid, WireMesh)
+- uid: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_group*
+  name: Change_wire_mesh_rebar_group
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabChanger.html#YW_SERVICE_PC_COMPONENT_ISlabChanger_Change_wire_mesh_rebar_group_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_group
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabChanger.Change_wire_mesh_rebar_group
+  nameWithType: ISlabChanger.Change_wire_mesh_rebar_group
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter
+  name: ISlabGetter
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.ISlabGetter
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter
+  nameWithType: ISlabGetter
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_component_info
+  name: Get_component_info()
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_component_info
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_component_info
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_component_info()
+  nameWithType: ISlabGetter.Get_component_info()
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_component_info*
+  name: Get_component_info
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_component_info_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_component_info
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_component_info
+  nameWithType: ISlabGetter.Get_component_info
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_data
+  name: Get_data()
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_data
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_data
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_data()
+  nameWithType: ISlabGetter.Get_data()
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_data*
+  name: Get_data
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_data_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_data
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_data
+  nameWithType: ISlabGetter.Get_data
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_factor
+  name: Get_factor()
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_factor
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_factor
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_factor()
+  nameWithType: ISlabGetter.Get_factor()
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_factor*
+  name: Get_factor
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_factor_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_factor
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_factor
+  nameWithType: ISlabGetter.Get_factor
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_geo
+  name: Get_geo()
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_geo
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_geo
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_geo()
+  nameWithType: ISlabGetter.Get_geo()
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_geo*
+  name: Get_geo
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_geo_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_geo
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_geo
+  nameWithType: ISlabGetter.Get_geo
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_publisher_port
+  name: Get_publisher_port()
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_publisher_port
+  commentId: M:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_publisher_port
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_publisher_port()
+  nameWithType: ISlabGetter.Get_publisher_port()
+- uid: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_publisher_port*
+  name: Get_publisher_port
+  href: api/YW.SERVICE.PC_COMPONENT.ISlabGetter.html#YW_SERVICE_PC_COMPONENT_ISlabGetter_Get_publisher_port_
+  commentId: Overload:YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_publisher_port
+  isSpec: "True"
+  fullName: YW.SERVICE.PC_COMPONENT.ISlabGetter.Get_publisher_port
+  nameWithType: ISlabGetter.Get_publisher_port
+- uid: YW.SERVICE.PC_COMPONENT.Topic
+  name: Topic
+  href: api/YW.SERVICE.PC_COMPONENT.Topic.html
+  commentId: T:YW.SERVICE.PC_COMPONENT.Topic
+  fullName: YW.SERVICE.PC_COMPONENT.Topic
+  nameWithType: Topic
+- uid: YW.SERVICE.PC_COMPONENT.Topic.COLUMN_CHANGES
+  name: COLUMN_CHANGES
+  href: api/YW.SERVICE.PC_COMPONENT.Topic.html#YW_SERVICE_PC_COMPONENT_Topic_COLUMN_CHANGES
+  commentId: F:YW.SERVICE.PC_COMPONENT.Topic.COLUMN_CHANGES
+  fullName: YW.SERVICE.PC_COMPONENT.Topic.COLUMN_CHANGES
+  nameWithType: Topic.COLUMN_CHANGES
+- uid: YW.SERVICE.PC_COMPONENT.Topic.COMPONENT_CHANGES
+  name: COMPONENT_CHANGES
+  href: api/YW.SERVICE.PC_COMPONENT.Topic.html#YW_SERVICE_PC_COMPONENT_Topic_COMPONENT_CHANGES
+  commentId: F:YW.SERVICE.PC_COMPONENT.Topic.COMPONENT_CHANGES
+  fullName: YW.SERVICE.PC_COMPONENT.Topic.COMPONENT_CHANGES
+  nameWithType: Topic.COMPONENT_CHANGES
+- uid: YW.SERVICE.PC_COMPONENT.Topic.GIRDER_CHANGES
+  name: GIRDER_CHANGES
+  href: api/YW.SERVICE.PC_COMPONENT.Topic.html#YW_SERVICE_PC_COMPONENT_Topic_GIRDER_CHANGES
+  commentId: F:YW.SERVICE.PC_COMPONENT.Topic.GIRDER_CHANGES
+  fullName: YW.SERVICE.PC_COMPONENT.Topic.GIRDER_CHANGES
+  nameWithType: Topic.GIRDER_CHANGES
+- uid: YW.SERVICE.PC_COMPONENT.Topic.SLAB_CHANGES
+  name: SLAB_CHANGES
+  href: api/YW.SERVICE.PC_COMPONENT.Topic.html#YW_SERVICE_PC_COMPONENT_Topic_SLAB_CHANGES
+  commentId: F:YW.SERVICE.PC_COMPONENT.Topic.SLAB_CHANGES
+  fullName: YW.SERVICE.PC_COMPONENT.Topic.SLAB_CHANGES
+  nameWithType: Topic.SLAB_CHANGES
