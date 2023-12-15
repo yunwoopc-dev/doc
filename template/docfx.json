@@ -5,7 +5,8 @@
         {
           "src": "./",
           "files": [
-            "**/*.csproj"
+            "**/*.csproj",
+			"**/Sample.csproj"
           ]
         }
       ],
@@ -19,7 +20,7 @@
           "**/*.{md,yml}"
         ],
         "exclude": [
-          "doc/**"
+          "./**"
         ]
       }
     ],
@@ -30,14 +31,14 @@
         ]
       }
     ],
-    "output": "doc/{문서 이름을 입력하세요}",
+    "output": "{문서 Repository 경로}/{프로젝트 이름}",
     "template": [
       "default",
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "{문서 이름을 입력하세요}",
-      "_appTitle": "{문서 이름을 입력하세요}",
+      "_appName": "{프로젝트 이름}",
+      "_appTitle": "{프로젝트 이름}",
       "_enableSearch": true,
       "pdf": true
     }

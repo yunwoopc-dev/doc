@@ -1,0 +1,490 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Class MacOsInstallerSettings
+ | Installer-Toolkit </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Class MacOsInstallerSettings
+ | Installer-Toolkit ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      <meta name="docfx:rel" content="../">
+      
+      
+      
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+  </head>
+
+  <script type="module" src="./../public/docfx.min.js"></script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="ManagedReference">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../logo.svg" alt="Installer-Toolkit">
+            Installer-Toolkit
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled="" placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings">
+
+
+
+  <h1 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings" class="text-break">
+    Class MacOsInstallerSettings
+  
+  </h1>
+
+  <div class="facts text-secondary">
+    <dl><dt>Namespace</dt><dd><a class="xref" href="YW.html">YW</a>.<a class="xref" href="YW.INSTALLER_TOOLKIT.html">INSTALLER_TOOLKIT</a></dd></dl>
+  <dl><dt>Assembly</dt><dd>Installer-Toolkit.dll</dd></dl>
+  </div>
+
+  <div class="markdown summary"></div>
+  <div class="markdown conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public record MacOsInstallerSettings : InstallerSettings, IEquatable&lt;InstallerSettings&gt;, IEquatable&lt;MacOsInstallerSettings&gt;</code></pre>
+  </div>
+
+
+
+
+  <dl class="typelist inheritance">
+    <dt>Inheritance</dt>
+    <dd>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
+      <div><a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html">InstallerSettings</a></div>
+      <div><span class="xref">MacOsInstallerSettings</span></div>
+    </dd>
+  </dl>
+
+  <dl class="typelist implements">
+    <dt>Implements</dt>
+    <dd>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.iequatable-1">IEquatable</a>&lt;<a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html">InstallerSettings</a>&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.iequatable-1">IEquatable</a>&lt;<a class="xref" href="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.html">MacOsInstallerSettings</a>&gt;</div>
+    </dd>
+  </dl>
+
+
+  <dl class="typelist derived">
+    <dt>Inherited Members</dt>
+    <dd>
+    <div>
+      <a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html#YW_INSTALLER_TOOLKIT_InstallerSettings_App_name">InstallerSettings.App_name</a>
+    </div>
+    <div>
+      <a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html#YW_INSTALLER_TOOLKIT_InstallerSettings_App_version">InstallerSettings.App_version</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)">object.Equals(object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)">object.Equals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode">object.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gettype">object.GetType()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone">object.MemberwiseClone()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.referenceequals">object.ReferenceEquals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.tostring">object.ToString()</a>
+    </div>
+  </dd></dl>
+
+
+
+
+
+
+  <h2 class="section" id="constructors">Constructors
+</h2>
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings__ctor_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.#ctor*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings__ctor_System_String_System_String_System_String_YW_FILE_SYSTEM_Directory_Nuke_Common_IO_AbsolutePath_Nuke_Common_IO_AbsolutePath_System_String_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.#ctor(System.String,System.String,System.String,YW.FILE_SYSTEM.Directory,Nuke.Common.IO.AbsolutePath,Nuke.Common.IO.AbsolutePath,System.String)">
+  MacOsInstallerSettings(string, string, string, Directory, AbsolutePath?, AbsolutePath?, string)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public MacOsInstallerSettings(string app_name, string app_version, string app_publisher, Directory source_dir, AbsolutePath? install_destination_path = null, AbsolutePath? launch_exe_path = null, string minimum_system_version = &quot;10.1.5&quot;)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>app_name</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+    <dt><code>app_version</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+    <dt><code>app_publisher</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+    <dt><code>source_dir</code> <span class="xref">Directory</span></dt>
+    <dd></dd>
+    <dt><code>install_destination_path</code> <span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+    <dt><code>launch_exe_path</code> <span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+    <dt><code>minimum_system_version</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <h2 class="section" id="properties">Properties
+</h2>
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_App_dir_name_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.App_dir_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_App_dir_name" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.App_dir_name">
+  App_dir_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string App_dir_name { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_App_identifier_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.App_identifier*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_App_identifier" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.App_identifier">
+  App_identifier
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string App_identifier { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_App_publisher_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.App_publisher*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_App_publisher" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.App_publisher">
+  App_publisher
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string App_publisher { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Destination_path_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Destination_path*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Destination_path" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Destination_path">
+  Destination_path
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public AbsolutePath Destination_path { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Launch_exe_path_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Launch_exe_path*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Launch_exe_path" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Launch_exe_path">
+  Launch_exe_path
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public AbsolutePath? Launch_exe_path { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Minimum_system_version_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Minimum_system_version*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Minimum_system_version" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Minimum_system_version">
+  Minimum_system_version
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Minimum_system_version { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Pkg_file_name_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Pkg_file_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Pkg_file_name" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Pkg_file_name">
+  Pkg_file_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Pkg_file_name { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Source_dir_" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Source_dir*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_MacOsInstallerSettings_Source_dir" data-uid="YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.Source_dir">
+  Source_dir
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Directory Source_dir { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">Directory</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+</article>
+
+        <div class="contribution d-print-none">
+        </div>
+
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

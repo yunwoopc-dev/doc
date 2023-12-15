@@ -1,0 +1,175 @@
+{
+  "source_base_path": "C:/Users/yunwoo/RiderProjects/installer-toolkit",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "Resource",
+      "output": {
+        "resource": {
+          "relative_path": "index.json"
+        }
+      }
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.AppCast.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.AppCast.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.InnoSetup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.InnoSetup.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.Installer.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.Installer.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.InstallerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.InstallerSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsAppBundle.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsAppBundle.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsInstaller.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsInstaller.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsInstallerSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsPackaging.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.MacOsPackaging.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.PlatformUploader.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.PlatformUploader.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.WindowsInstaller.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.WindowsInstaller.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/YW.INSTALLER_TOOLKIT.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/YW.INSTALLER_TOOLKIT.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/toc.html"
+        },
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".html": {
+          "relative_path": "toc.html"
+        },
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}

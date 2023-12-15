@@ -1,0 +1,1022 @@
+﻿<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+      <title>Class WindowsInstallerSettings
+ | Installer-Toolkit </title>
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <meta name="title" content="Class WindowsInstallerSettings
+ | Installer-Toolkit ">
+      
+      <link rel="icon" href="../favicon.ico">
+      <link rel="stylesheet" href="../public/docfx.min.css">
+      <link rel="stylesheet" href="../public/main.css">
+      <meta name="docfx:navrel" content="../toc.html">
+      <meta name="docfx:tocrel" content="toc.html">
+      
+      <meta name="docfx:rel" content="../">
+      
+      
+      
+      <meta name="loc:inThisArticle" content="In this article">
+      <meta name="loc:searchResultsCount" content="{count} results for &quot;{query}&quot;">
+      <meta name="loc:searchNoResults" content="No results for &quot;{query}&quot;">
+      <meta name="loc:tocFilter" content="Filter by title">
+      <meta name="loc:nextArticle" content="Next">
+      <meta name="loc:prevArticle" content="Previous">
+      <meta name="loc:themeLight" content="Light">
+      <meta name="loc:themeDark" content="Dark">
+      <meta name="loc:themeAuto" content="Auto">
+      <meta name="loc:changeTheme" content="Change theme">
+      <meta name="loc:copy" content="Copy">
+      <meta name="loc:downloadPdf" content="Download PDF">
+  </head>
+
+  <script type="module" src="./../public/docfx.min.js"></script>
+
+  <script>
+    const theme = localStorage.getItem('theme') || 'auto'
+    document.documentElement.setAttribute('data-bs-theme', theme === 'auto' ? (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light') : theme)
+  </script>
+
+
+  <body class="tex2jax_ignore" data-layout="" data-yaml-mime="ManagedReference">
+    <header class="bg-body border-bottom">
+      <nav id="autocollapse" class="navbar navbar-expand-md" role="navigation">
+        <div class="container-xxl flex-nowrap">
+          <a class="navbar-brand" href="../index.html">
+            <img id="logo" class="svg" src="../logo.svg" alt="Installer-Toolkit">
+            Installer-Toolkit
+          </a>
+          <button class="btn btn-lg d-md-none border-0" type="button" data-bs-toggle="collapse" data-bs-target="#navpanel" aria-controls="navpanel" aria-expanded="false" aria-label="Toggle navigation">
+            <i class="bi bi-three-dots"></i>
+          </button>
+          <div class="collapse navbar-collapse" id="navpanel">
+            <div id="navbar">
+              <form class="search" role="search" id="search">
+                <i class="bi bi-search"></i>
+                <input class="form-control" id="search-query" type="search" disabled="" placeholder="Search" autocomplete="off" aria-label="Search">
+              </form>
+            </div>
+          </div>
+        </div>
+      </nav>
+    </header>
+
+    <main class="container-xxl">
+      <div class="toc-offcanvas">
+        <div class="offcanvas-md offcanvas-start" tabindex="-1" id="tocOffcanvas" aria-labelledby="tocOffcanvasLabel">
+          <div class="offcanvas-header">
+            <h5 class="offcanvas-title" id="tocOffcanvasLabel">Table of Contents</h5>
+            <button type="button" class="btn-close" data-bs-dismiss="offcanvas" data-bs-target="#tocOffcanvas" aria-label="Close"></button>
+          </div>
+          <div class="offcanvas-body">
+            <nav class="toc" id="toc"></nav>
+          </div>
+        </div>
+      </div>
+
+      <div class="content">
+        <div class="actionbar">
+          <button class="btn btn-lg border-0 d-md-none" style="margin-top: -.65em; margin-left: -.8em" type="button" data-bs-toggle="offcanvas" data-bs-target="#tocOffcanvas" aria-controls="tocOffcanvas" aria-expanded="false" aria-label="Show table of contents">
+            <i class="bi bi-list"></i>
+          </button>
+
+          <nav id="breadcrumb"></nav>
+        </div>
+
+        <article data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings">
+
+
+
+  <h1 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings" class="text-break">
+    Class WindowsInstallerSettings
+  
+  </h1>
+
+  <div class="facts text-secondary">
+    <dl><dt>Namespace</dt><dd><a class="xref" href="YW.html">YW</a>.<a class="xref" href="YW.INSTALLER_TOOLKIT.html">INSTALLER_TOOLKIT</a></dd></dl>
+  <dl><dt>Assembly</dt><dd>Installer-Toolkit.dll</dd></dl>
+  </div>
+
+  <div class="markdown summary"></div>
+  <div class="markdown conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public record WindowsInstallerSettings : InstallerSettings, IEquatable&lt;InstallerSettings&gt;, IEquatable&lt;WindowsInstallerSettings&gt;</code></pre>
+  </div>
+
+
+
+
+  <dl class="typelist inheritance">
+    <dt>Inheritance</dt>
+    <dd>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
+      <div><a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html">InstallerSettings</a></div>
+      <div><span class="xref">WindowsInstallerSettings</span></div>
+    </dd>
+  </dl>
+
+  <dl class="typelist implements">
+    <dt>Implements</dt>
+    <dd>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.iequatable-1">IEquatable</a>&lt;<a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html">InstallerSettings</a>&gt;</div>
+      <div><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.iequatable-1">IEquatable</a>&lt;<a class="xref" href="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.html">WindowsInstallerSettings</a>&gt;</div>
+    </dd>
+  </dl>
+
+
+  <dl class="typelist derived">
+    <dt>Inherited Members</dt>
+    <dd>
+    <div>
+      <a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html#YW_INSTALLER_TOOLKIT_InstallerSettings_App_name">InstallerSettings.App_name</a>
+    </div>
+    <div>
+      <a class="xref" href="YW.INSTALLER_TOOLKIT.InstallerSettings.html#YW_INSTALLER_TOOLKIT_InstallerSettings_App_version">InstallerSettings.App_version</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)">object.Equals(object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object-system-object)">object.Equals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gethashcode">object.GetHashCode()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.gettype">object.GetType()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.memberwiseclone">object.MemberwiseClone()</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.referenceequals">object.ReferenceEquals(object, object)</a>
+    </div>
+    <div>
+      <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.tostring">object.ToString()</a>
+    </div>
+  </dd></dl>
+
+
+
+
+
+
+  <h2 class="section" id="constructors">Constructors
+</h2>
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings__ctor_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.#ctor*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings__ctor_System_Guid_System_String_System_String_System_String_Nuke_Common_IO_AbsolutePath_YW_FILE_SYSTEM_Directory_Nuke_Common_IO_AbsolutePath_System_String_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.#ctor(System.Guid,System.String,System.String,System.String,Nuke.Common.IO.AbsolutePath,YW.FILE_SYSTEM.Directory,Nuke.Common.IO.AbsolutePath,System.String)">
+  WindowsInstallerSettings(Guid, string, string, string, AbsolutePath, Directory, AbsolutePath?, string?)
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public WindowsInstallerSettings(Guid app_id, string app_name, string app_version, string publisher_name, AbsolutePath launch_exe_path, Directory source_dir, AbsolutePath? install_destination_path = null, string? installer_file_name = null)</code></pre>
+  </div>
+
+  <h4 class="section">Parameters</h4>
+  <dl class="parameters">
+    <dt><code>app_id</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.guid">Guid</a></dt>
+    <dd></dd>
+    <dt><code>app_name</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+    <dt><code>app_version</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+    <dt><code>publisher_name</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+    <dt><code>launch_exe_path</code> <span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+    <dt><code>source_dir</code> <span class="xref">Directory</span></dt>
+    <dd></dd>
+    <dt><code>install_destination_path</code> <span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+    <dt><code>installer_file_name</code> <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+
+
+
+  <h2 class="section" id="fields">Fields
+</h2>
+
+
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Script_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Script_name">
+  Script_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public const string Script_name = &quot;settings.iss&quot;</code></pre>
+  </div>
+
+
+
+
+  <h4 class="section">Field Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+  <h2 class="section" id="properties">Properties
+</h2>
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_id_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_id*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_id" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_id">
+  App_id
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Guid App_id { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.guid">Guid</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_publisher_url_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_publisher_url*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_publisher_url" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_publisher_url">
+  App_publisher_url
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? App_publisher_url { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_support_url_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_support_url*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_support_url" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_support_url">
+  App_support_url
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? App_support_url { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_updates_url_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_updates_url*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_App_updates_url" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.App_updates_url">
+  App_updates_url
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? App_updates_url { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Append_default_group_name_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Append_default_group_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Append_default_group_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Append_default_group_name">
+  Append_default_group_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public YesNo Append_default_group_name { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">YesNo</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Appwz_name_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Appwz_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Appwz_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Appwz_name">
+  Appwz_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Appwz_name { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Change_associations_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Change_associations*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Change_associations" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Change_associations">
+  Change_associations
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public YesNo Change_associations { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">YesNo</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Compression_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Compression*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Compression" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Compression">
+  Compression
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? Compression { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Default_directory_name_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Default_directory_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Default_directory_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Default_directory_name">
+  Default_directory_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Default_directory_name { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Default_group_name_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Default_group_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Default_group_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Default_group_name">
+  Default_group_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? Default_group_name { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Disable_dir_page_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Disable_dir_page*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Disable_dir_page" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Disable_dir_page">
+  Disable_dir_page
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public YesNo Disable_dir_page { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">YesNo</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Disable_program_group_page_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Disable_program_group_page*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Disable_program_group_page" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Disable_program_group_page">
+  Disable_program_group_page
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public YesNo Disable_program_group_page { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">YesNo</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Install_destination_path_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Install_destination_path*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Install_destination_path" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Install_destination_path">
+  Install_destination_path
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public AbsolutePath Install_destination_path { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">AbsolutePath</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Installer_file_name_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Installer_file_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Installer_file_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Installer_file_name">
+  Installer_file_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Installer_file_name { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Launch_exe_path_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Launch_exe_path*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Launch_exe_path" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Launch_exe_path">
+  Launch_exe_path
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Launch_exe_path { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_License_file_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.License_file*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_License_file" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.License_file">
+  License_file
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? License_file { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Privileges_required_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Privileges_required*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Privileges_required" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Privileges_required">
+  Privileges_required
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public PrivilegesRequired Privileges_required { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">PrivilegesRequired</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Privileges_required_overrides_allowed_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Privileges_required_overrides_allowed*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Privileges_required_overrides_allowed" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Privileges_required_overrides_allowed">
+  Privileges_required_overrides_allowed
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public SetupPrivilegesRequiredOverrides Privileges_required_overrides_allowed { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">SetupPrivilegesRequiredOverrides</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Publisher_name_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Publisher_name*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Publisher_name" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Publisher_name">
+  Publisher_name
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string Publisher_name { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Run_after_installation_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Run_after_installation*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Run_after_installation" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Run_after_installation">
+  Run_after_installation
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public bool Run_after_installation { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.boolean">bool</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Setup_icon_file_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Setup_icon_file*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Setup_icon_file" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Setup_icon_file">
+  Setup_icon_file
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public string? Setup_icon_file { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Solid_compression_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Solid_compression*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Solid_compression" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Solid_compression">
+  Solid_compression
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public YesNo Solid_compression { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">YesNo</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Source_dir_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Source_dir*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Source_dir" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Source_dir">
+  Source_dir
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public Directory Source_dir { get; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">Directory</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+  <a id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Wizard_style_" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Wizard_style*"></a>
+
+  <h3 id="YW_INSTALLER_TOOLKIT_WindowsInstallerSettings_Wizard_style" data-uid="YW.INSTALLER_TOOLKIT.WindowsInstallerSettings.Wizard_style">
+  Wizard_style
+  
+  </h3>
+
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public WizardStyle Wizard_style { get; init; }</code></pre>
+  </div>
+
+
+
+
+
+  <h4 class="section">Property Value</h4>
+  <dl class="parameters">
+    <dt><span class="xref">WizardStyle</span></dt>
+    <dd></dd>
+  </dl>
+
+
+
+
+
+
+
+
+
+</article>
+
+        <div class="contribution d-print-none">
+        </div>
+
+
+      </div>
+
+      <div class="affix">
+        <nav id="affix"></nav>
+      </div>
+    </main>
+
+    <div class="container-xxl search-results" id="search-results"></div>
+
+    <footer class="border-top text-secondary">
+      <div class="container-xxl">
+        <div class="flex-fill">
+          <span>Made with <a href="https://dotnet.github.io/docfx">docfx</a></span>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>
